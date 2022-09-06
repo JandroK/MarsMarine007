@@ -24,3 +24,6 @@ If you touch any button of gamepad automatically switches to gamepad mode, if yo
 - Restart Kill Record: R
 
 This is a project that I have done completing the course "Unreal Engine Blueprint Game Developer Online Course" of GameDev.tv. 
+
+## Gameplay
+[![Watch the video](https://img.youtube.com/vi/kKmjgN3wsVs/maxresdefault.jpg)](https://www.youtube.com/watch?v=kKmjgN3wsVs)
