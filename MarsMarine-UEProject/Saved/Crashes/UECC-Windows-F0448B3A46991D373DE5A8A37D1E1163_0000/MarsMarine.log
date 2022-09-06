@@ -1,0 +1,1195 @@
+﻿Log file open, 07/13/22 15:56:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=48108)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MarsMarine
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/MarsMarine.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.778] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="3ea24a4e4a1950004e147b961d1b31a9"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.459731
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F0448B3A46991D373DE5A8A37D1E1163
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.778] (), CPU: Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.13-13.56.51:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.13-13.56.51:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.13-13.56.51:188][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.13-13.56.51:190][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.13-13.56.51:204][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI: D3D11 adapters:
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI:     DeviceId    : 2206
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI:     SubSysId    : 38961462
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI:     DedicatedVideoMemory : 10567548928 bytes
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI:     SharedSystemMemory : 17092505600 bytes
+[2022.07.13-13.56.51:206][  0]LogD3D11RHI:     AdapterLuid : 0 67284
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080' (Feature Level 11_1)
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:       10078/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 630
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:     DeviceId    : 9bc5
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:     SubSysId    : 7c771462
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:     Revision    : 0005
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:     SharedSystemMemory : 17092505600 bytes
+[2022.07.13-13.56.51:285][  0]LogD3D11RHI:     AdapterLuid : 0 70626
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_1)
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:       128/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:     Revision    : 0000
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:     SharedSystemMemory : 17092505600 bytes
+[2022.07.13-13.56.51:315][  0]LogD3D11RHI:     AdapterLuid : 0 70564
+[2022.07.13-13.56.51:316][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.07.13-13.56.51:316][  0]LogD3D11RHI:       0/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI:     DeviceId    : 2206
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI:     SubSysId    : 38961462
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI:     DedicatedVideoMemory : 10567548928 bytes
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI:     SharedSystemMemory : 17092505600 bytes
+[2022.07.13-13.56.51:317][  0]LogD3D11RHI:     AdapterLuid : 0 67284
+[2022.07.13-13.56.51:317][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.13-13.56.51:317][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.13-13.56.51:317][  0]LogHAL: Display: Platform has ~ 32 GB [34185011200 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.13-13.56.51:317][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.13-13.56.51:317][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.13-13.56.51:317][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.13-13.56.51:317][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.13-13.56.51:317][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.13-13.56.51:317][  0]LogInit: Computer: KIRITO-PC
+[2022.07.13-13.56.51:317][  0]LogInit: User: Msi
+[2022.07.13-13.56.51:317][  0]LogInit: CPU Page size=4096, Cores=10
+[2022.07.13-13.56.51:317][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.13-13.56.51:317][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.07.13-13.56.51:317][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.13-13.56.51:317][  0]LogMemory: Process Physical Memory: 278.39 MB used, 285.65 MB peak
+[2022.07.13-13.56.51:317][  0]LogMemory: Process Virtual Memory: 255.62 MB used, 255.62 MB peak
+[2022.07.13-13.56.51:317][  0]LogMemory: Physical Memory: 12991.15 MB used,  19610.21 MB free, 32601.37 MB total
+[2022.07.13-13.56.51:317][  0]LogMemory: Virtual Memory: 18112.43 MB used,  19352.94 MB free, 37465.37 MB total
+[2022.07.13-13.56.51:317][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.13-13.56.51:322][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.13-13.56.51:334][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.13-13.56.51:334][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.07.13-13.56.51:334][  0]LogInit: Using OS detected locale (es-ES).
+[2022.07.13-13.56.51:471][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.13-13.56.51:477][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.13-13.56.51:477][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2022.07.13-13.56.51:477][  0]LogWindowsTextInputMethodSystem:   - Inglés (Estados Unidos) - (Keyboard).
+[2022.07.13-13.56.51:477][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+[2022.07.13-13.56.51:477][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2022.07.13-13.56.51:486][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.13-13.56.51:486][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.13-13.56.51:572][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.07.13-13.56.51:572][  0]LogD3D11RHI:     GPU DeviceId: 0x2206 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.13-13.56.51:572][  0]LogWindows: Attached monitors:
+[2022.07.13-13.56.51:572][  0]LogWindows:     resolution: 3440x1440, work area: (0, 0) -> (3440, 1440), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.07.13-13.56.51:572][  0]LogWindows: Found 1 attached monitors.
+[2022.07.13-13.56.51:572][  0]LogWindows: EnumDisplayDevices:
+[2022.07.13-13.56.51:572][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.07.13-13.56.51:572][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.07.13-13.56.51:572][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.07.13-13.56.51:572][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.07.13-13.56.51:573][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.07.13-13.56.51:573][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.07.13-13.56.51:573][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.07.13-13.56.51:573][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:      Driver Date: 6-23-2022
+[2022.07.13-13.56.51:573][  0]LogRHI: Texture pool is 7054 MB (70% of 10078 MB)
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     DeviceId    : 2206
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     SubSysId    : 38961462
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     DedicatedVideoMemory : 10567548928 bytes
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     SharedSystemMemory : 17092505600 bytes
+[2022.07.13-13.56.51:573][  0]LogD3D11RHI:     AdapterLuid : 0 67284
+[2022.07.13-13.56.51:616][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.07.13-13.56.51:616][  0]LogD3D11RHI: Async texture creation enabled
+[2022.07.13-13.56.51:616][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.07.13-13.56.51:616][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.07.13-13.56.51:617][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2022.07.13-13.56.51:638][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.07.13-13.56.51:665][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.07.13-13.56.51:670][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/MarsMarine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/MarsMarine.uproject"  -platform=all'
+[2022.07.13-13.56.51:670][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files (x86)/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/MarsMarine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/MarsMarine.uproject"  -platform=all" ]
+[2022.07.13-13.56.51:686][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.13-13.56.51:692][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.13-13.56.51:692][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.13-13.56.51:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.13-13.56.51:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.13-13.56.51:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.13-13.56.51:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.13-13.56.51:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.13-13.56.51:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.13-13.56.51:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.07.13-13.56.51:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.13-13.56.51:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.13-13.56.51:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.07.13-13.56.51:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.07.13-13.56.51:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.07.13-13.56.51:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.13-13.56.51:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.13-13.56.51:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.13-13.56.51:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.13-13.56.51:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.13-13.56.51:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.13-13.56.51:728][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.13-13.56.51:734][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.13-13.56.51:736][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.13-13.56.51:736][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.13-13.56.51:736][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.13-13.56.51:736][  0]LogTargetPlatformManager:   PCM
+[2022.07.13-13.56.51:739][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.13-13.56.51:740][  0]LogTargetPlatformManager:   BINKA
+[2022.07.13-13.56.51:740][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.13-13.56.51:740][  0]LogTargetPlatformManager:   OGG
+[2022.07.13-13.56.51:740][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.13-13.56.51:740][  0]LogTargetPlatformManager:   OPUS
+[2022.07.13-13.56.51:775][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   SF_METAL
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.07.13-13.56.51:780][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.07.13-13.56.51:783][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.07.13-13.56.51:783][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.07.13-13.56.51:783][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.07.13-13.56.51:783][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.07.13-13.56.51:783][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.07.13-13.56.51:783][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.07.13-13.56.51:783][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.07.13-13.56.51:783][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.13-13.56.51:783][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.13-13.56.51:783][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.13-13.56.51:783][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.13-13.56.51:783][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.13-13.56.51:785][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.13-13.56.51:785][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.13-13.56.51:785][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.13-13.56.51:785][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.13-13.56.51:801][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.07.13-13.56.51:801][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.13-13.56.51:801][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.13-13.56.51:808][  0]LogDerivedDataCache: Speed tests for C:/Users/Msi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.07.13-13.56.51:808][  0]LogDerivedDataCache: Display: Performance to C:/Users/Msi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=354.79MBs, RandomWriteSpeed=262.45MBs. Assigned SpeedClass 'Local'
+[2022.07.13-13.56.51:808][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Msi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.13-13.56.51:808][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.13-13.56.51:808][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.07.13-13.56.51:814][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.13-13.56.51:814][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.13-13.56.51:814][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Intermediate/Shaders/WorkingDirectory/48080/).
+[2022.07.13-13.56.51:814][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Msi/AppData/Local/Temp/UnrealShaderWorkingDir/6A9335E5432F17EBE252C3A243EB7FB7/'.
+[2022.07.13-13.56.51:814][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.13-13.56.51:814][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2022.07.13-13.56.53:003][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.07.13-13.56.53:003][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.13-13.56.53:004][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.13-13.56.53:028][  0]LogAssetRegistry: FAssetRegistry took 0.0107 seconds to start up
+[2022.07.13-13.56.53:032][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.13-13.56.53:180][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.13-13.56.53:181][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.13-13.56.53:412][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.13-13.56.53:412][  0]LogDeviceProfileManager: Active device profile: [000005BE7E1B2A00][000005BE5727C800 50] WindowsEditor
+[2022.07.13-13.56.53:412][  0]LogDeviceProfileManager: Profiles: [000005BE7E1B24C0][000005BE73BB2800 50] Windows, [000005BE7E1B2A00][000005BE5727C800 50] WindowsEditor, [000005BE7E1B2140][000005BE71E9A000 50] WindowsServer, [000005BE7E1B1F80][000005BE71ED2800 50] WindowsClient, [000005BE7E1B1DC0][000005BE7E200000 50] IOS, [000005BE7E1B1C00][000005BE7E205000 50] iPadAir2, [000005BE7E1B55C0][000005BE7E20A000 50] IPadPro, [000005BE7E1B5940][000005BE7E207800 50] iPadAir3, [000005BE7E1B3640][000005BE7E20C800 50] iPadAir4, [000005BE7E1B0A80][000005BE7076A000 50] iPadMini4, [000005BE7E1B5B00][000005BE7E210000 50] iPadMini5, [000005BE7E1B2300][000005BE7E215000 50] iPadMini6, [000005BE7E1B8180][000005BE7E21C800 50] iPhone6S, [000005BE7E1B8500][000005BE7E21A000 50] iPhone7, [000005BE7E1B8880][000005BE7E217800 50] iPodTouch7, [000005BE7E1B5780][000005BE7E202800 50] iPhone6SPlus, [000005BE7E1B7FC0][000005BE7E220000 50] iPhone7Plus, [000005BE7E1B01C0][000005BE7E225000 50] iPhoneSE, [000005BE7E1B5240][000005BE7E227800 50] iPhone8, [000005BE7E1B7E00][000005BE7E22A000 50] iPhone8Plus, [000005BE7E1B1180][000005BE7E22C800 50] iPhoneX, [000005BE7E1B32C0][000005BE7E212800 50] iPhoneXS, [000005BE7E1B7C40][000005BE7E230000 50] iPhoneXSMax, [000005BE7E1B8C00][000005BE7E235000 50] iPhoneXR, [000005BE7E1B7A80][000005BE7E237800 50] iPhone11, [000005BE7E1B4EC0][000005BE7E23A000 50] iPhone11Pro, [000005BE7E1B2F40][000005BE7E23C800 50] iPhone11ProMax, [000005BE7E1B3480][000005BE7E222800 50] iPhoneSE2, [000005BE7E1B7000][000005BE7E240000 50] iPhone12Mini, [000005BE7E1B1500][000005BE7E245000 50] iPhone12, [000005BE7E1B6740][000005BE7E247800 50] iPhone12Pro, [000005BE7E1B08C0][000005BE7E24A000 50] iPhone12ProMax, [000005BE7E1B3100][000005BE7E24C800 50] iPhone13Mini, [000005BE7E1B4980][000005BE7E232800 50] iPhone13, [000005BE7E1B78C0][000005BE7E250000 50] iPhone13Pro, [000005BE7E1B16C0][000005BE7E255000 50] iPhone13ProMax, [000005BE7E1B6C80][000005BE7E257800 50] iPadPro105, [000005BE7E1B2BC0][000005BE7E25A000 50] iPadPro129, [000005BE7E1B39C0][000005BE7E25C800 50] iPadPro97, [000005BE7E1B47C0][000005BE7E242800 50] iPadPro2_129, [000005BE7E1B6900][000005BE7E260000 50] iPad5, [000005BE7E1B86C0][000005BE7E265000 50] iPad6, [000005BE7E1B0C40][000005BE7E267800 50] iPad7, [000005BE7E1B6040][000005BE7E26A000 50] iPad8, [000005BE7E1B5CC0][000005BE7E26C800 50] iPad9, [000005BE7E1B7380][000005BE7E252800 50] iPadPro11, [000005BE7E1B0FC0][000005BE7E270000 50] iPadPro2_11, [000005BE7E1B2D80][000005BE7E275000 50] iPadPro3_11, [000005BE7E1B1880][000005BE7E277800 50] iPadPro3_129, [000005BE7E1B0700][000005BE7E27A000 50] iPadPro4_129, [000005BE7E1B4B40][000005BE7E27C800 50] iPadPro5_129, [000005BE7E1B5080][000005BE7E262800 50] AppleTV, [000005BE7E1B7700][000005BE7E280000 50] AppleTV4K, [000005BE7E1B40C0][000005BE7E285000 50] TVOS, [000005BE7E1BA2C0][000005BE7E28A000 50] Mac, [000005BE7E1BA640][000005BE7E287800 50] MacEditor, [000005BE7E1B1340][000005BE7E28C800 50] MacClient, [000005BE7E1B5400][000005BE7E272800 50] MacServer, [000005BE7E1B3D40][000005BE7E2A2800 50] Linux, [000005BE7E1BAB80][000005BE7E2A0000 50] LinuxEditor, [000005BE7E1B2840][000005BE7E2A7800 50] LinuxArm64Editor, [000005BE7E1B63C0][000005BE7E2AA000 50] LinuxArm64, [000005BE7E1B9BC0][000005BE7E2AC800 50] LinuxClient, [000005BE7E1B9680][000005BE7E282800 50] LinuxArm64Client, [000005BE7E1B5E80][000005BE7E2B0000 50] LinuxServer, [000005BE7E1B8F80][000005BE7E2B5000 50] LinuxArm64Server, [000005BE7E1B0540][000005BE7E2B7800 50] Android, [000005BE7E1B0380][000005BE7E2BA000 50] Android_Preview_OpenGL, [000005BE7E1B6580][000005BE7E2BC800 50] Android_Preview_Vulkan, [000005BE7E1B3F00][000005BE7E2A5000 50] Android_Low, [000005BE7E1B4280][000005BE7E2C0000 50] Android_Mid, [000005BE7E1B8A40][000005BE7E2C5000 50] Android_High, [000005BE7E1B9140][000005BE7E2C7800 50] Android_Default, [000005BE7E1B7540][000005BE7E2CA000 50] Android_Adreno4xx, [000005BE7E1B6E40][000005BE7E2CC800 50] Android_Adreno5xx_Low, [000005BE7E1BA100][000005BE7E2B2800 50] Android_Adreno5xx, [000005BE7E1B6200][000005BE7E2D0000 50] Android_Adreno6xx, [000005BE7E1B4600][000005BE7E2D5000 50] Android_Adreno6xx_Vulkan, [000005BE7E1BA480][000005BE7E2D7800 50] Android_Adreno7xx, [000005BE7E1B9840][000005BE7E2DA000 50] Android_Adreno7xx_Vulkan, [000005BE7E1BAD40][000005BE7E2DC800 50] Android_Mali_T6xx, [000005BE7E1B6AC0][000005BE7E2C2800 50] Android_Mali_T7xx, [000005BE7E1B4D00][000005BE7E2E0000 50] Android_Mali_T8xx, [000005BE7E1BAF00][000005BE7E2E5000 50] Android_Mali_G71, [000005BE7E1B9F40][000005BE7E2E7800 50] Android_Mali_G72, [000005BE7E1B71C0][000005BE7E2EA000 50] Android_Mali_G72_Vulkan, [000005BE7E1BB0C0][000005BE7E2EC800 50] Android_Mali_G76, [000005BE7E1B0000][000005BE7E2D2800 50] Android_Mali_G76_Vulkan, [000005BE7E1BB280][000005BE7E2F0000 50] Android_Mali_G77, [000005BE7E1BBD00][000005BE7E2F5000 50] Android_Mali_G77_Vulkan, [000005BE7E1BB600][000005BE7E2F7800 50] Android_Mali_G78, [000005BE7E1B9D80][000005BE7E2FA000 50] Android_Mali_G78_Vulkan, [000005BE7E1BBEC0][000005BE7E2FC800 50] Android_Mali_G710, [000005BE7E1B3800][000005BE7E2E2800 50] Android_Mali_G710_Vulkan, [000005BE7E1BA9C0][000005BE7E300000 50] Android_Xclipse_920, [000005BE7E1BC080][000005BE7E305000 50] Android_Xclipse_920_Vulkan, [000005BE7E1BB980][000005BE7E307800 50] Android_Vulkan_SM5, [000005BE7E1BC240][000005BE7E30A000 50] Android_PowerVR_G6xxx, [000005BE7E1BA800][000005BE7E30C800 50] Android_PowerVR_GT7xxx, [000005BE7E1BC400][000005BE7E2F2800 50] Android_PowerVR_GE8xxx, [000005BE7E1BCE80][000005BE7E310000 50] Android_PowerVR_GM9xxx, [000005BE7E1BC5C0][000005BE7E315000 50] Android_PowerVR_GM9xxx_Vulkan, [000005BE7E1B9300][000005BE7E317800 50] Android_TegraK1, [000005BE7E1BD040][000005BE7E31A000 50] Android_Unknown_Vulkan, [000005BE7E1B94C0][000005BE7E31C800 50] Oculus_Quest, [000005BE7E1BD200][000005BE7E302800 50] Oculus_Quest2, [000005BE7E1BDC80][000005BE7E320000 50] HoloLens, 
+[2022.07.13-13.56.53:412][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.13-13.56.53:414][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2022.07.13-13.56.53:414][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.07.13-13.56.53:414][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.07.13-13.56.53:414][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.13-13.56.53:414][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.13-13.56.53:414][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.07.13-13.56.53:414][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.07.13-13.56.53:429][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.13-13.56.53:589][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.13-13.56.53:589][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.13-13.56.53:589][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.13-13.56.53:589][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.13-13.56.53:589][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.13-13.56.53:600][  0]LogNetVersion: MarsMarine 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1052965757)
+[2022.07.13-13.56.53:704][  0]LogSlate: Border
+[2022.07.13-13.56.53:704][  0]LogSlate: BreadcrumbButton
+[2022.07.13-13.56.53:704][  0]LogSlate: Default
+[2022.07.13-13.56.53:704][  0]LogSlate: Icons.Save
+[2022.07.13-13.56.53:704][  0]LogSlate: Icons.Toolbar.Settings
+[2022.07.13-13.56.53:704][  0]LogSlate: ListView
+[2022.07.13-13.56.53:704][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.07.13-13.56.53:704][  0]LogSlate: SoftwareCursor_Grab
+[2022.07.13-13.56.53:704][  0]LogSlate: TableView.DarkRow
+[2022.07.13-13.56.53:704][  0]LogSlate: TableView.Row
+[2022.07.13-13.56.53:704][  0]LogSlate: TreeView
+[2022.07.13-13.56.53:839][  0]SourceControl: Source control is disabled
+[2022.07.13-13.56.53:861][  0]SourceControl: Source control is disabled
+[2022.07.13-13.56.53:861][  0]SourceControl: Source control is disabled
+[2022.07.13-13.56.53:957][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.07.13-13.56.53:957][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.07.13-13.56.53:957][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.13-13.56.54:095][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 62D7BFD34AA98899CE79D7B07AA8AF46 | Instance: 1E816B404D8841B2C31B46A1E4694735 (KIRITO-PC-48080).
+[2022.07.13-13.56.54:247][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.13-13.56.54:253][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.13-13.56.54:292][  0]LogPython: Using Python 3.9.7
+[2022.07.13-13.56.55:079][  0]SourceControl: Source control is disabled
+[2022.07.13-13.56.55:081][  0]SourceControl: Source control is disabled
+[2022.07.13-13.56.55:089][  0]SourceControl: Source control is disabled
+[2022.07.13-13.56.55:096][  0]LogUProjectInfo: Found projects:
+[2022.07.13-13.56.55:164][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.13-13.56.55:190][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.13-13.56.55:209][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.13-13.56.55:209][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.13-13.56.55:358][  0]LogCollectionManager: Loaded 0 collections in 0.000782 seconds
+[2022.07.13-13.56.55:487][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/Collections/' took 0.00s
+[2022.07.13-13.56.55:487][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Developers/Msi/Collections/' took 0.00s
+[2022.07.13-13.56.55:487][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Collections/' took 0.00s
+[2022.07.13-13.56.55:487][  0]LogEngine: Initializing Engine...
+[2022.07.13-13.56.55:500][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.13-13.56.55:709][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.13-13.56.55:709][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.13-13.56.55:718][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-13.56.55:746][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.13-13.56.55:746][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.13-13.56.55:768][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.13-13.56.55:768][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.13-13.56.55:769][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.07.13-13.56.55:769][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.13-13.56.55:769][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.13-13.56.55:769][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.13-13.56.55:769][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.13-13.56.55:769][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.13-13.56.55:769][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.13-13.56.55:769][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.13-13.56.55:769][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.13-13.56.55:769][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.13-13.56.55:769][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.13-13.56.55:769][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.13-13.56.55:769][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.13-13.56.55:769][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.13-13.56.55:774][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.13-13.56.55:804][  0]LogAudioMixer: Display: Using Audio Hardware Device 34GN850 (NVIDIA High Definition Audio)
+[2022.07.13-13.56.55:804][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.13-13.56.55:806][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.13-13.56.55:806][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.13-13.56.55:806][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.07.13-13.56.55:806][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.13-13.56.55:807][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.13-13.56.55:807][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.07.13-13.56.55:807][  0]LogInit: FAudioDevice initialized.
+[2022.07.13-13.56.55:807][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.13-13.56.55:807][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.13-13.56.55:807][  0]LogInit: Texture streaming: Enabled
+[2022.07.13-13.56.55:837][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.07.13-13.56.55:845][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.13-13.56.55:866][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.07.13-13.56.55:873][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.07.13-13.56.55:873][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.07.13-13.56.56:899][  0]LogLiveCoding: Display: First instance in process group "UE_MarsMarine_0x4a420533", spawning console
+[2022.07.13-13.56.56:899][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.13-13.56.56:899][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.13-13.56.56:923][  0]LogInit: Transaction tracking system initialized
+[2022.07.13-13.56.57:001][  0]BlueprintLog: New page: Editor Load
+[2022.07.13-13.56.57:186][  0]LocalizationService: Localization service is disabled
+[2022.07.13-13.56.57:231][  0]TimingProfiler: Initialize
+[2022.07.13-13.56.57:231][  0]TimingProfiler: OnSessionChanged
+[2022.07.13-13.56.57:231][  0]LoadingProfiler: Initialize
+[2022.07.13-13.56.57:231][  0]LoadingProfiler: OnSessionChanged
+[2022.07.13-13.56.57:231][  0]NetworkingProfiler: Initialize
+[2022.07.13-13.56.57:232][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.13-13.56.57:232][  0]MemoryProfiler: Initialize
+[2022.07.13-13.56.57:232][  0]MemoryProfiler: OnSessionChanged
+[2022.07.13-13.56.57:682][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/' took 0.00s
+[2022.07.13-13.56.57:682][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.13-13.56.57:870][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.13-13.56.57:872][  0]SourceControl: Source control is disabled
+[2022.07.13-13.56.57:872][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.761
+[2022.07.13-13.56.57:872][  0]Cmd: MAP LOAD FILE="../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Levels/Mars.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.13-13.56.57:872][  0]LightingResults: New page: Lighting Build
+[2022.07.13-13.56.57:878][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.13-13.56.57:878][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.13-13.56.57:878][  0]MapCheck: New page: Map Check
+[2022.07.13-13.56.57:878][  0]LightingResults: New page: Lighting Build
+[2022.07.13-13.56.57:883][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.13-13.56.57:886][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.13-13.56.58:271][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\Msi\Desktop\Universidad\TFG\Projects\MarsMarine-UEProject\Content\Weapons\Rifle.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.07.13-13.56.58:276][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mars'.
+[2022.07.13-13.56.58:276][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.13-13.56.58:276][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-13.56.58:276][  0]LogAIModule: Creating AISystem for world Mars
+[2022.07.13-13.56.58:302][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.13-13.56.58:325][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.07.13-13.56.58:325][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.13-13.56.58:325][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,093ms to complete.
+[2022.07.13-13.56.58:325][  0]LogFileHelpers: Loading map 'Mars' took 0.454
+[2022.07.13-13.56.58:337][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.227
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: ================================================
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.13-13.56.58:338][  0]LogShaderCompilers: Display: ================================================
+[2022.07.13-13.56.58:422][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.07.13-13.56.58:422][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.07.13-13.56.58:423][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.07.13-13.56.58:423][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.07.13-13.56.58:423][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.07.13-13.56.58:423][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.07.13-13.56.58:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-13.56.58:448][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-13.56.58:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-13.56.58:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-13.56.58:491][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:491][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:491][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:491][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:492][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:492][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:492][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:492][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:493][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:493][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:493][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:493][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:494][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:494][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:494][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:494][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:494][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:494][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:495][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.07.13-13.56.58:495][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.13-13.56.58:577][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.13-13.56.58:578][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.13-13.56.58:580][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.13-13.56.58:580][  0]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.13-13.56.58:604][  0]LogViewport: Scene viewport resized to 2103x1268, mode Windowed.
+[2022.07.13-13.56.58:700][  0]LogStall: Startup...
+[2022.07.13-13.56.58:702][  0]LogStall: Startup complete.
+[2022.07.13-13.56.58:722][  0]LogLoad: (Engine Initialization) Total time: 8.61 seconds
+[2022.07.13-13.56.58:722][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.13-13.56.58:750][  0]LogAssetRegistry: Asset discovery search completed in 5.7227 seconds
+[2022.07.13-13.56.58:760][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.07.13-13.56.58:779][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.13-13.56.58:899][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Mars.
+[2022.07.13-13.57.03:891][560]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Blueprints/Characters/BP_Alien.BP_Alien) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.07.13-13.57.03:892][560]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien
+[2022.07.13-13.57.03:892][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-13.57.04:810][560]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Characters/Enemy_Great_Spider/Animations/AnimBP_AlienSpider.AnimBP_AlienSpider) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.07.13-13.57.04:810][560]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Enemy_Great_Spider/Animations/AnimBP_AlienSpider.AnimBP_AlienSpider
+[2022.07.13-13.57.04:810][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-13.57.04:826][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-13.57.04:859][560]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.13-13.57.05:295][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-13.57.05:322][560]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage.ExoGame_Greater_Spider_Attack_Melee_A_Montage) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.07.13-13.57.05:322][560]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage.ExoGame_Greater_Spider_Attack_Melee_A_Montage
+[2022.07.13-13.57.05:322][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-13.57.05:325][560]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.13-13.57.05:455][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-13.57.07:425][560]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.13-13.57.07:431][560]LogViewport: Scene viewport resized to 1134x499, mode Windowed.
+[2022.07.13-13.57.09:540][762]LogViewport: Scene viewport resized to 2051x837, mode Windowed.
+[2022.07.13-13.57.11:741][968]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.13-13.57.11:745][968]LogViewport: Scene viewport resized to 854x586, mode Windowed.
+[2022.07.13-13.57.11:780][968]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.13-13.57.40:849][268]BlueprintLog: New page: Compile BP_Alien
+[2022.07.13-13.57.40:941][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.07.13-13.57.41:643][338]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.006109 seconds
+[2022.07.13-13.57.41:651][338]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_Alien
+[2022.07.13-13.57.41:652][338]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/BP_Alien54A257EF48F083401F08D9BE9A8AF299.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Blueprints/Characters/BP_Alien.uasset'
+[2022.07.13-13.57.41:665][338]AssetCheck: New page: Asset Save: BP_Alien
+[2022.07.13-13.57.41:665][338]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien
+[2022.07.13-13.58.52:855][912]LogDerivedDataCache: C:/Users/Msi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.995 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.13-14.01.20:582][531]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.13-14.02.10:956][404]LogSavePackage: Moving output files for package: /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage
+[2022.07.13-14.02.10:957][404]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/ExoGame_Greater_Spider_Attack_MeAA71925E4F216662A8F245A28B771D79.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage.uasset'
+[2022.07.13-14.02.10:973][404]AssetCheck: New page: Asset Save: ExoGame_Greater_Spider_Attack_Melee_A_Montage
+[2022.07.13-14.02.10:973][404]LogContentValidation: Display: Validating AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage.ExoGame_Greater_Spider_Attack_Melee_A_Montage
+[2022.07.13-14.02.13:146][619]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.13-14.02.19:311][285]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage.ExoGame_Greater_Spider_Attack_Melee_B_Montage
+[2022.07.13-14.02.19:367][285]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.13-14.02.48:382][526]LogSavePackage: Moving output files for package: /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage
+[2022.07.13-14.02.48:383][526]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/ExoGame_Greater_Spider_Attack_Me22CDB64A44E74633EFC0D288443C91D9.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage.uasset'
+[2022.07.13-14.02.48:396][526]AssetCheck: New page: Asset Save: ExoGame_Greater_Spider_Attack_Melee_B_Montage
+[2022.07.13-14.02.48:396][526]LogContentValidation: Display: Validating AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage.ExoGame_Greater_Spider_Attack_Melee_B_Montage
+[2022.07.13-14.02.51:248][783]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage.ExoGame_Greater_Spider_Attack_Melee_C_Montage
+[2022.07.13-14.03.08:207][666]LogSavePackage: Moving output files for package: /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage
+[2022.07.13-14.03.08:208][666]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/ExoGame_Greater_Spider_Attack_MeB085DE59433D41C18CEEF0AB49D4F6B1.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage.uasset'
+[2022.07.13-14.03.08:218][666]AssetCheck: New page: Asset Save: ExoGame_Greater_Spider_Attack_Melee_C_Montage
+[2022.07.13-14.03.08:218][666]LogContentValidation: Display: Validating AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage.ExoGame_Greater_Spider_Attack_Melee_C_Montage
+[2022.07.13-14.03.30:410][264]BlueprintLog: New page: Compile BP_Alien
+[2022.07.13-14.03.30:487][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.07.13-14.03.30:887][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_Alien
+[2022.07.13-14.03.30:888][298]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/BP_AlienDDC469BD447B5A9A544189A0EF5DB714.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Blueprints/Characters/BP_Alien.uasset'
+[2022.07.13-14.03.30:897][298]AssetCheck: New page: Asset Save: BP_Alien
+[2022.07.13-14.03.30:897][298]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien
+[2022.07.13-14.03.33:043][549]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.13-14.03.33:047][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.13-14.03.33:048][549]PIE: New page: PIE session: Mars (13 jul. 2022 18:03:33)
+[2022.07.13-14.03.33:050][549]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.07.13-14.03.33:050][549]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.13-14.03.33:050][549]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mars
+[2022.07.13-14.03.33:067][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016172s)
+[2022.07.13-14.03.33:067][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mars.Mars to /Game/Levels/UEDPIE_0_Mars.Mars (0.016226s)
+[2022.07.13-14.03.33:067][549]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.13-14.03.33:067][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-14.03.33:067][549]LogAIModule: Creating AISystem for world Mars
+[2022.07.13-14.03.33:067][549]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2022.07.13-14.03.33:102][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.07.13-14.03.33:104][549]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.13-14.03.33:104][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.13-14.03.33:104][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.13-14.03.33:104][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.13-14.03.33:104][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.13-14.03.33:104][549]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.13-14.03.33:104][549]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.13-14.03.33:104][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.13-14.03.33:104][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.13-14.03.33:104][549]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.13-14.03.33:104][549]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.13-14.03.33:104][549]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.13-14.03.33:106][549]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.13-14.03.33:122][549]LogAudioMixer: Display: Using Audio Hardware Device 34GN850 (NVIDIA High Definition Audio)
+[2022.07.13-14.03.33:122][549]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.13-14.03.33:122][549]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.13-14.03.33:122][549]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.13-14.03.33:122][549]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.07.13-14.03.33:122][549]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.07.13-14.03.33:123][549]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.07.13-14.03.33:123][549]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.07.13-14.03.33:123][549]LogInit: FAudioDevice initialized.
+[2022.07.13-14.03.33:123][549]LogAudio: Display: Audio Device (ID: 2) registered with world 'Mars'.
+[2022.07.13-14.03.33:133][549]LogLoad: Game class is 'BP_GameMode_C'
+[2022.07.13-14.03.33:135][549]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mars.Mars up for play (max tick rate 0) at 2022.07.13-16.03.33
+[2022.07.13-14.03.33:135][549]LogWorld: Bringing up level for play took: 0.002231
+[2022.07.13-14.03.33:136][549]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.07.13-14.03.33:154][549]PIE: Server logged in
+[2022.07.13-14.03.33:155][549]PIE: Play in editor total start time 0,107 seconds.
+[2022.07.13-14.03.35:316][771]LogAudioMixer: Warning: Decoder Error, stopping source [AssaultRifle_ShotEnd05_Stereo]
+[2022.07.13-14.04.30:354][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-14.04.30:354][369]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mars
+[2022.07.13-14.04.30:354][369]LogWorld: UWorld::CleanupWorld for Mars, bSessionEnded=true, bCleanupResources=true
+[2022.07.13-14.04.30:355][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.13-14.04.30:365][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.13-14.04.30:372][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.13-14.04.30:410][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-14.04.30:411][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.13-14.04.30:412][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.13-14.04.30:447][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.07.13-14.04.30:461][370]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.07.13-14.04.46:335][214]BlueprintLog: New page: Collapse to Function
+[2022.07.13-14.05.33:610][820]BlueprintLog: New page: Collapse to Function
+[2022.07.13-14.06.49:222][782]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.13-14.07.09:926][250]BlueprintLog: New page: Compile BP_Alien
+[2022.07.13-14.07.10:025][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.07.13-14.07.10:642][311]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_Alien
+[2022.07.13-14.07.10:643][311]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/BP_AlienC5A2EF1847277C529FD4E3B49882C7C5.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Blueprints/Characters/BP_Alien.uasset'
+[2022.07.13-14.07.10:653][311]AssetCheck: New page: Asset Save: BP_Alien
+[2022.07.13-14.07.10:653][311]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien
+[2022.07.13-14.07.55:905][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.07.13-14.07.55:947][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Mars_Auto1
+[2022.07.13-14.07.55:947][630]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/Mars_Auto1B76818564CD9ED702C5C03A5C6B6B75A.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/Autosaves/Game/Levels/Mars_Auto1.umap'
+[2022.07.13-14.07.55:953][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Mars' took 0.084
+[2022.07.13-14.07.55:953][630]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2022.07.13-14.08.34:755][ 35]LogSavePackage: Moving output files for package: /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage
+[2022.07.13-14.08.34:756][ 35]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/ExoGame_Greater_Spider_Attack_MeBB03579846649E81176722B9E35DD712.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage.uasset'
+[2022.07.13-14.08.34:766][ 35]AssetCheck: New page: Asset Save: ExoGame_Greater_Spider_Attack_Melee_C_Montage
+[2022.07.13-14.08.34:766][ 35]LogContentValidation: Display: Validating AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage.ExoGame_Greater_Spider_Attack_Melee_C_Montage
+[2022.07.13-14.08.38:903][391]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage.ExoGame_Greater_Spider_Attack_Melee_B_Montage
+[2022.07.13-14.08.49:805][559]LogSavePackage: Moving output files for package: /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage
+[2022.07.13-14.08.49:806][559]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/ExoGame_Greater_Spider_Attack_Me5BE67B3041655E68A5BC29AF8B0E6D52.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage.uasset'
+[2022.07.13-14.08.49:816][559]AssetCheck: New page: Asset Save: ExoGame_Greater_Spider_Attack_Melee_B_Montage
+[2022.07.13-14.08.49:816][559]LogContentValidation: Display: Validating AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage.ExoGame_Greater_Spider_Attack_Melee_B_Montage
+[2022.07.13-14.08.52:770][839]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage.ExoGame_Greater_Spider_Attack_Melee_C_Montage
+[2022.07.13-14.08.56:710][194]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage.ExoGame_Greater_Spider_Attack_Melee_A_Montage
+[2022.07.13-14.09.11:602][745]LogSavePackage: Moving output files for package: /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage
+[2022.07.13-14.09.11:602][745]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/ExoGame_Greater_Spider_Attack_Me76D6DE3A49C79850E2D8D78D975ABAEE.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage.uasset'
+[2022.07.13-14.09.11:611][745]AssetCheck: New page: Asset Save: ExoGame_Greater_Spider_Attack_Melee_A_Montage
+[2022.07.13-14.09.11:611][745]LogContentValidation: Display: Validating AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage.ExoGame_Greater_Spider_Attack_Melee_A_Montage
+[2022.07.13-14.09.14:604][ 86]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.13-14.09.14:608][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.13-14.09.14:609][ 86]PIE: New page: PIE session: Mars (13 jul. 2022 18:09:14)
+[2022.07.13-14.09.14:630][ 86]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mars
+[2022.07.13-14.09.14:645][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015059s)
+[2022.07.13-14.09.14:645][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mars.Mars to /Game/Levels/UEDPIE_0_Mars.Mars (0.015128s)
+[2022.07.13-14.09.14:645][ 86]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.13-14.09.14:645][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-14.09.14:646][ 86]LogAIModule: Creating AISystem for world Mars
+[2022.07.13-14.09.14:646][ 86]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2022.07.13-14.09.14:682][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.07.13-14.09.14:685][ 86]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.13-14.09.14:685][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.13-14.09.14:685][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.13-14.09.14:685][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.13-14.09.14:685][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.13-14.09.14:685][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.13-14.09.14:685][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.13-14.09.14:685][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.13-14.09.14:685][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.13-14.09.14:686][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.13-14.09.14:686][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.13-14.09.14:686][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.13-14.09.14:687][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.13-14.09.14:703][ 86]LogAudioMixer: Display: Using Audio Hardware Device 34GN850 (NVIDIA High Definition Audio)
+[2022.07.13-14.09.14:704][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.13-14.09.14:704][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.13-14.09.14:704][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.13-14.09.14:704][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.07.13-14.09.14:704][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.07.13-14.09.14:704][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.07.13-14.09.14:704][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.07.13-14.09.14:704][ 86]LogInit: FAudioDevice initialized.
+[2022.07.13-14.09.14:704][ 86]LogAudio: Display: Audio Device (ID: 3) registered with world 'Mars'.
+[2022.07.13-14.09.14:709][ 86]LogLoad: Game class is 'BP_GameMode_C'
+[2022.07.13-14.09.14:711][ 86]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mars.Mars up for play (max tick rate 0) at 2022.07.13-16.09.14
+[2022.07.13-14.09.14:712][ 86]LogWorld: Bringing up level for play took: 0.002073
+[2022.07.13-14.09.14:713][ 86]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.07.13-14.09.14:715][ 86]PIE: Server logged in
+[2022.07.13-14.09.14:716][ 86]PIE: Play in editor total start time 0,108 seconds.
+[2022.07.13-14.09.27:060][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-14.09.27:060][553]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mars
+[2022.07.13-14.09.27:060][553]LogWorld: UWorld::CleanupWorld for Mars, bSessionEnded=true, bCleanupResources=true
+[2022.07.13-14.09.27:060][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.13-14.09.27:067][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.13-14.09.27:072][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.13-14.09.27:107][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.13-14.09.27:107][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.13-14.09.27:108][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.13-14.09.27:110][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-14.09.27:113][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.07.13-14.09.27:128][554]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.07.13-14.09.33:194][274]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.13-14.09.39:803][ 65]Cmd: DELETE
+[2022.07.13-14.09.39:803][ 65]Cmd: ACTOR DELETE
+[2022.07.13-14.09.39:814][ 65]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0 is already used by Landscape /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:814][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_0 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:814][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_1 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:814][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_10 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_10, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:814][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_11 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_11, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_12 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_12, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_13 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_13, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_14 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_14, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_15 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_16 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_17 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_18 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_18, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_19 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_19, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_2 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_20 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_20, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_21 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_21, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_22 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_22, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_23 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_23, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_24 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_24, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_25 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_25, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_26 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_26, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_27 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_27, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_28 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_28, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_29 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_29, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_3 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_30 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_30, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_31 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_31, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:815][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_32 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_32, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_33 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_33, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_34 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_34, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_35 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_35, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_36 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_36, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_37 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_37, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_38 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_38, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_39 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_39, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_4 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_40 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_40, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_41 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_41, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_42 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_42, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_43 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_43, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_44 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_44, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_45 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_45, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_46 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_46, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_47 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_47, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_48 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_48, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_49 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_49, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_5 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_50 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_50, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_51 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_51, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_52 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_52, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:816][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_53 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_53, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_54 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_54, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_55 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_55, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_56 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_56, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_57 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_57, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_58 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_58, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_59 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_59, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_6 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_60 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_60, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_61 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_61, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_62 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_62, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_63 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_63, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_7 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_8 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:817][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeComponent_9 is already used by LandscapeComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:820][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_100 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_100, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:820][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_101 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_101, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:820][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_102 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_102, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:820][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_103 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_103, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_104 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_104, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_105 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_105, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_106 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_106, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_107 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_107, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_109 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_109, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_110 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_110, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_111 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_111, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_112 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_112, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_113 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_113, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_114 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_114, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_115 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_115, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_116 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_116, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_117 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_117, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_118 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_118, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_119 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_119, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_120 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_120, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_121 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_121, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_122 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_122, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_123 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_123, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_124 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_124, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_125 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_125, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_126 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_126, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_127 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_127, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_64 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_64, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_65 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_65, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_66 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_66, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_67 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_67, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_68 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_68, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_69 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_69, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_70 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_70, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:821][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_71 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_71, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_72 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_72, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_73 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_73, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_74 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_74, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_75 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_75, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_76 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_76, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_77 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_77, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_78 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_78, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_79 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_79, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_80 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_80, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_81 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_81, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_82 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_82, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_83 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_83, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_84 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_84, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_85 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_85, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_86 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_86, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_87 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_87, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_88 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_88, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_89 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_89, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_91 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_91, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_92 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_92, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_93 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_93, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_94 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_94, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_95 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_95, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_96 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_96, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_97 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_97, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:822][ 65]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Mars_Auto1.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_99 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Mars.Mars:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_99, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.13-14.09.39:833][ 65]LogEditorActor: Deleted Actor: BP_Alien_C
+[2022.07.13-14.09.39:868][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.07.13-14.09.39:869][ 65]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2022.07.13-14.09.45:505][731]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_Alien.BP_Alien_C
+[2022.07.13-14.09.45:505][731]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_Alien.BP_Alien_C
+[2022.07.13-14.09.45:506][731]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien as actor: BP_Alien_C /Game/Levels/Mars.Mars:PersistentLevel.BP_Alien_C_0
+[2022.07.13-14.09.45:506][731]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien as actor: BP_Alien_C /Game/Levels/Mars.Mars:PersistentLevel.BP_Alien_C_0
+[2022.07.13-14.09.46:497][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_Alien.BP_Alien_C
+[2022.07.13-14.09.46:497][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_Alien.BP_Alien_C
+[2022.07.13-14.09.46:498][848]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien as actor: BP_Alien_C /Game/Levels/Mars.Mars:PersistentLevel.BP_Alien_C_2
+[2022.07.13-14.09.46:499][848]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien as actor: BP_Alien_C /Game/Levels/Mars.Mars:PersistentLevel.BP_Alien_C_2
+[2022.07.13-14.09.46:565][848]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.13-14.09.50:208][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Levels/Mars.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.13-14.09.50:242][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.07.13-14.09.50:286][275]LogSavePackage: Moving output files for package: /Game/Levels/Mars
+[2022.07.13-14.09.50:286][275]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/Mars8CA7EBC04EBA654C4414BD9885E799E6.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Levels/Mars.umap'
+[2022.07.13-14.09.50:295][275]LogFileHelpers: No new changes to save!
+[2022.07.13-14.09.50:305][275]AssetCheck: New page: Asset Save: Mars
+[2022.07.13-14.09.50:305][275]LogContentValidation: Display: Validating World /Game/Levels/Mars.Mars
+[2022.07.13-14.09.51:279][388]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.13-14.09.51:288][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.13-14.09.51:288][388]PIE: New page: PIE session: Mars (13 jul. 2022 18:09:51)
+[2022.07.13-14.09.51:329][388]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mars
+[2022.07.13-14.09.51:344][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015831s)
+[2022.07.13-14.09.51:344][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mars.Mars to /Game/Levels/UEDPIE_0_Mars.Mars (0.015912s)
+[2022.07.13-14.09.51:344][388]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.13-14.09.51:345][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.13-14.09.51:345][388]LogAIModule: Creating AISystem for world Mars
+[2022.07.13-14.09.51:345][388]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2022.07.13-14.09.51:380][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.07.13-14.09.51:382][388]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.07.13-14.09.51:382][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.13-14.09.51:382][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.13-14.09.51:382][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.13-14.09.51:382][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.13-14.09.51:382][388]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.13-14.09.51:382][388]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.13-14.09.51:382][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.13-14.09.51:382][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.13-14.09.51:382][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.13-14.09.51:382][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.13-14.09.51:382][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.13-14.09.51:384][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.13-14.09.51:399][388]LogAudioMixer: Display: Using Audio Hardware Device 34GN850 (NVIDIA High Definition Audio)
+[2022.07.13-14.09.51:399][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.13-14.09.51:399][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.13-14.09.51:399][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.13-14.09.51:400][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.07.13-14.09.51:400][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.07.13-14.09.51:401][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.07.13-14.09.51:401][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.07.13-14.09.51:401][388]LogInit: FAudioDevice initialized.
+[2022.07.13-14.09.51:401][388]LogAudio: Display: Audio Device (ID: 4) registered with world 'Mars'.
+[2022.07.13-14.09.51:412][388]LogLoad: Game class is 'BP_GameMode_C'
+[2022.07.13-14.09.51:414][388]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mars.Mars up for play (max tick rate 0) at 2022.07.13-16.09.51
+[2022.07.13-14.09.51:414][388]LogWorld: Bringing up level for play took: 0.001992
+[2022.07.13-14.09.51:416][388]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.07.13-14.09.51:417][388]PIE: Server logged in
+[2022.07.13-14.09.51:418][388]PIE: Play in editor total start time 0,135 seconds.
+[2022.07.13-14.10.34:748][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-14.10.34:748][578]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mars
+[2022.07.13-14.10.34:748][578]LogWorld: UWorld::CleanupWorld for Mars, bSessionEnded=true, bCleanupResources=true
+[2022.07.13-14.10.34:749][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.13-14.10.34:763][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.13-14.10.34:769][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.13-14.10.34:803][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.13-14.10.34:804][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.13-14.10.34:805][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.13-14.10.34:810][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.07.13-14.10.34:855][579]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.07.13-14.10.34:872][579]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.13-14.11.49:196][974]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_Alien
+[2022.07.13-14.11.49:197][974]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/BP_Alien44363E5E46F84E80118B059E8ED6164E.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Blueprints/Characters/BP_Alien.uasset'
+[2022.07.13-14.11.49:208][974]AssetCheck: New page: Asset Save: BP_Alien
+[2022.07.13-14.11.49:208][974]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien
+[2022.07.13-14.12.45:753][317]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.07.13-14.12.55:176][124]BlueprintLog: New page: Compile BP_Alien
+[2022.07.13-14.12.55:292][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.07.13-14.12.55:341][124]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.13-14.12.55:425][125]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.13-14.13.16:015][ 74]BlueprintLog: New page: Collapse to Function
+[2022.07.13-14.13.41:002][397]LogEditorTransaction: Undo Add Node
+[2022.07.13-14.13.41:188][397]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.13-14.13.41:189][397]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.13-14.13.41:261][397]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.13-14.13.55:531][644]BlueprintLog: New page: Compile BP_Alien
+[2022.07.13-14.13.55:643][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.07.13-14.13.55:692][644]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.13-14.13.55:774][645]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.13-14.13.55:978][658]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_Alien
+[2022.07.13-14.13.55:979][658]LogSavePackage: Moving '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Saved/BP_AlienEBB464C54E8623B014E6C3801431AC08.tmp' to '../../../../../Users/Msi/Desktop/Universidad/TFG/Projects/MarsMarine-UEProject/Content/Blueprints/Characters/BP_Alien.uasset'
+[2022.07.13-14.13.55:990][658]AssetCheck: New page: Asset Save: BP_Alien
+[2022.07.13-14.13.55:990][658]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_Alien.BP_Alien
+[2022.07.13-14.14.45:637][357]BlueprintLog: New page: Compile BP_Alien
+[2022.07.13-14.14.45:659][357]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.07.13-14.14.47:101][357]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.443 s
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: === Handled ensure: ===
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: 
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 1162]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: 
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: Stack: 
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9d639874b UnrealEditor-Engine.dll!UBlueprint::ValidateGeneratedClass() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp:1162]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9e69f1c2c UnrealEditor-Kismet.dll!FBlueprintCompilationManagerImpl::FlushCompilationQueueImpl() [D:\build\++UE5\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:1513]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9e6994167 UnrealEditor-Kismet.dll!FBlueprintCompilationManagerImpl::CompileSynchronouslyImpl() [D:\build\++UE5\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:267]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9e6993f20 UnrealEditor-Kismet.dll!FBlueprintCompilationManager::CompileSynchronously() [D:\build\++UE5\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:3158]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9d4990bbe UnrealEditor-UnrealEd.dll!FKismetEditorUtilities::CompileBlueprint() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\Kismet2.cpp:761]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9e6aa5fdb UnrealEditor-Kismet.dll!FBlueprintEditor::Compile() [D:\build\++UE5\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditor.cpp:3873]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9e6ac120c UnrealEditor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,1,void __cdecl(void),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9ffe6b018 UnrealEditor-Slate.dll!FUICommandList::ExecuteAction() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Commands\UICommandList.cpp:99]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9fff4da8b UnrealEditor-Slate.dll!SToolBarButtonBlock::OnClicked() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\MultiBox\SToolBarButtonBlock.cpp:384]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9fff30c24 UnrealEditor-Slate.dll!TBaseSPMethodDelegateInstance<0,SToolBarButtonBlock,1,FReply __cdecl(void),FDefaultDelegateUserPolicy>::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:290]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9fffcb90b UnrealEditor-Slate.dll!SButton::ExecuteOnClick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:464]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9ffff2cc6 UnrealEditor-Slate.dll!SButton::OnMouseButtonUp() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:389]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9ffd94034 UnrealEditor-Slate.dll!<lambda_51e270ca99ea7ce852539efd04dd453f>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4961]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9ffd76fc6 UnrealEditor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_51e270ca99ea7ce852539efd04dd453f> >() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:405]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9ffdf02de UnrealEditor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4947]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9ffdd91b1 UnrealEditor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5495]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ff9ffdcd5dc UnrealEditor-Slate.dll!FSlateApplication::OnMouseUp() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5460]
+[2022.07.13-14.14.47:101][357]LogOutputDevice: Error: [Callstack] 0x00007ffa10eda92e UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2210]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ffa10ec9247 UnrealEditor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2699]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ffa10edce51 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1078]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ffa10ec49a7 UnrealEditor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:916]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ffa6a8f1c4c USER32.dll!UnknownFunction []
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ffa6a8f0ea6 USER32.dll!UnknownFunction []
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ffa10ede148 UnrealEditor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:138]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ff60e6d7114 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5139]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ff60e6f0d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ff60e6f0e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ff60e6f3c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ff60e705564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ff60e708736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ffa6a8354e0 KERNEL32.DLL!UnknownFunction []
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: [Callstack] 0x00007ffa6b52485b ntdll.dll!UnknownFunction []
+[2022.07.13-14.14.47:102][357]LogOutputDevice: Error: 

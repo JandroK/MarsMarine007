@@ -1,0 +1,4280 @@
+{
+	"Files": [
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset",
+			"ChunkId": "90442f10ca8d9eb700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlueNoise.uasset",
+			"ChunkId": "1439d3a2f78315bf00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset",
+			"ChunkId": "7045cf1b55a1317500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Master.uasset",
+			"ChunkId": "e670df8e769d382e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset",
+			"ChunkId": "f324387808549ca400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset",
+			"ChunkId": "86f514aa5cdc08e700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/GizmoMaterial.uasset",
+			"ChunkId": "4f766dcdfcc10abc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+			"ChunkId": "d9ef76f15dcbda9d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+			"ChunkId": "f0a7f83421ac425b00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset",
+			"ChunkId": "5f510b7cd6e0bdc800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset",
+			"ChunkId": "8fcb1cae0c92026900000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset",
+			"ChunkId": "11e16642d5df4eca00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset",
+			"ChunkId": "a8a408dbac6bb61700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset",
+			"ChunkId": "7b967f8ff09764ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset",
+			"ChunkId": "931f8593c76b1a3700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset",
+			"ChunkId": "3bd77c49df92ee7b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset",
+			"ChunkId": "bb0c9910913c4acc00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset",
+			"ChunkId": "3f4f90b51972562400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset",
+			"ChunkId": "b2e55f36209c19b000000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset",
+			"ChunkId": "8d4486caf50605b200000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset",
+			"ChunkId": "84ee12d7bc5f5a8000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset",
+			"ChunkId": "c1ceadea19a929af00000001"
+		},
+		{
+			"Path": "Engine/Content/Tutorial/ContentIntroCurve.uasset",
+			"ChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset",
+			"ChunkId": "a325708448a8980800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset",
+			"ChunkId": "a257a4a1759b7c6d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset",
+			"ChunkId": "7bae9d93c88ae44900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorLandscapeResources/DataLayer.uasset",
+			"ChunkId": "fe8e2f79bc05d6e200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoRegular.uasset",
+			"ChunkId": "5ba734afa75fb33c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoLight.uasset",
+			"ChunkId": "0668993fb5b5811c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoItalic.uasset",
+			"ChunkId": "6ef7eb5c150af73a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset",
+			"ChunkId": "0fcbf7e6705a3afe00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoBold.uasset",
+			"ChunkId": "368e94bf2073b74d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset",
+			"ChunkId": "a9e44eb998f07d0800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset",
+			"ChunkId": "a06a91154845992200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/Camera/CineMat.uasset",
+			"ChunkId": "a60f7c53ca2e732e00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+			"ChunkId": "b0afffa81f17b5cc00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/Main.uasset",
+			"ChunkId": "36f9c4a1a41147a000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
+			"ChunkId": "5c918efb403d4bb200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
+			"ChunkId": "5c918efb403d4bb200000002"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
+			"ChunkId": "efd3b99beb745ea100000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset",
+			"ChunkId": "b60fa590a5fe4d6f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset",
+			"ChunkId": "c18dd883a0c55c8b00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Terrain.uasset",
+			"ChunkId": "5cea311860b94ecb00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Terrain.ubulk",
+			"ChunkId": "5cea311860b94ecb00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset",
+			"ChunkId": "8b12fc0ce026f5be00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset",
+			"ChunkId": "ad84bf334b97e1af00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultBloomKernel.uasset",
+			"ChunkId": "cbab6b01dd8b7ffe00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/BSPVertex.uasset",
+			"ChunkId": "9784ada5ce57b7cb00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset",
+			"ChunkId": "9c7151fedab8d7e200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset",
+			"ChunkId": "fd5c4b2d837478ae00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset",
+			"ChunkId": "624f937426db20c500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk",
+			"ChunkId": "624f937426db20c500000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset",
+			"ChunkId": "4077f21c1acd58d500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/MiniFont.uasset",
+			"ChunkId": "58ac407f95ae164b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
+			"ChunkId": "b60efe12572543e800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultBokeh.uasset",
+			"ChunkId": "65401b411493477b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
+			"ChunkId": "1c3a80931d7381bf00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset",
+			"ChunkId": "4eefe050ec0582d800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset",
+			"ChunkId": "28ed83b8029dd22900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset",
+			"ChunkId": "c599b991259f3dc100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset",
+			"ChunkId": "0219c3161c6d6eb200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset",
+			"ChunkId": "d77ca907bf9be46e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset",
+			"ChunkId": "adba4404ca6448ad00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset",
+			"ChunkId": "768633666781f70600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset",
+			"ChunkId": "2563b8e7aff6d26e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset",
+			"ChunkId": "7ba7b2b1aeafb4cc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset",
+			"ChunkId": "641c8321450e97f400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset",
+			"ChunkId": "cdb6f2e8065df7c100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk",
+			"ChunkId": "cdb6f2e8065df7c100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset",
+			"ChunkId": "8500a33b2fedbab800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/VolumeToRender.uasset",
+			"ChunkId": "7f8259be57e87dce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset",
+			"ChunkId": "6f3a7c0fe1cf64ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset",
+			"ChunkId": "27d3dbbd9cb5875a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk",
+			"ChunkId": "27d3dbbd9cb5875a00000002"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
+			"ChunkId": "2cc5808063f890db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
+			"ChunkId": "2cc5808063f890db00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset",
+			"ChunkId": "55c5d73fec0135d200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/HairDebugColor.uasset",
+			"ChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/HairColorMap.uasset",
+			"ChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
+			"ChunkId": "0bf1d6a9c47f8ccc00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk",
+			"ChunkId": "0bf1d6a9c47f8ccc00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
+			"ChunkId": "ba6543c81e92e56d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
+			"ChunkId": "ba6543c81e92e56d00000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
+			"ChunkId": "f267c7830989284200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset",
+			"ChunkId": "79688f0e793acea100000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset",
+			"ChunkId": "0ccdb42a00235ca400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset",
+			"ChunkId": "3f9ae4ae5e9a10b000000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset",
+			"ChunkId": "7276d40fd50dba5900000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset",
+			"ChunkId": "a29fb34f83f7d31a00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset",
+			"ChunkId": "94d5e4cbc0f4380c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
+			"ChunkId": "0125e0852ce3d3e700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
+			"ChunkId": "6a3b7a697242e13400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset",
+			"ChunkId": "6752d9e62e6e395700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
+			"ChunkId": "474711309ee6ba8900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMeshes/Sphere.uasset",
+			"ChunkId": "f421d8f857b9ed0300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+			"ChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Blueprints/SG_GameData.uasset",
+			"ChunkId": "c849bad07b72bbee00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
+			"ChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Blueprints/Enums/Enum_States.uasset",
+			"ChunkId": "d5a7ac3eaa056fef00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Blueprints/Enums/Enum_InputControlers.uasset",
+			"ChunkId": "61a75fe201fb454d00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/RT_MiniMap.uasset",
+			"ChunkId": "9012c94482e7b24c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset",
+			"ChunkId": "048e6fb25437845700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset",
+			"ChunkId": "344ace582a05a9a500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset",
+			"ChunkId": "a78221ddf916516d00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.uasset",
+			"ChunkId": "14d5090804e650a300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Marine_PhysicsAsset.uasset",
+			"ChunkId": "9358ffb7f6d7c56400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/Ramp/M_radial_ramp_soft.uasset",
+			"ChunkId": "cc3f98cdf894cc2b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Meshes/Weapon/SM_MuzzleCone.uasset",
+			"ChunkId": "ca08793d0d6ac94400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Music/ShooterGame_Music.uasset",
+			"ChunkId": "9c28c3ab269d548200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Music/ShooterGame_Music.ubulk",
+			"ChunkId": "9c28c3ab269d548200000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Levels/Mars_BuiltData.uasset",
+			"ChunkId": "fed60a4869b6ad2200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Levels/Mars_BuiltData.ubulk",
+			"ChunkId": "fed60a4869b6ad2200000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Music/ShooterGame_Music_Intro.uasset",
+			"ChunkId": "1457af5e71d7cc1100000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Music/ShooterGame_Music_Intro.ubulk",
+			"ChunkId": "1457af5e71d7cc1100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
+			"ChunkId": "86737b633647e77300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Blue.ubulk",
+			"ChunkId": "86737b633647e77300000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
+			"ChunkId": "927b2fe4876a1f7400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk",
+			"ChunkId": "927b2fe4876a1f7400000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.uasset",
+			"ChunkId": "56d51199b9b2142a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.ubulk",
+			"ChunkId": "56d51199b9b2142a00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Ground_Gravel_D.uasset",
+			"ChunkId": "79e8a0c467f8a2c300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Ground_Gravel_D.ubulk",
+			"ChunkId": "79e8a0c467f8a2c300000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_BoxReflectionCapture.uasset",
+			"ChunkId": "ff5a26a059754af200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Actor.uasset",
+			"ChunkId": "bd472f8cbf5f723d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Actor.ubulk",
+			"ChunkId": "bd472f8cbf5f723d00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset",
+			"ChunkId": "12bace0bc8b42ac000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset",
+			"ChunkId": "2127f99d332bc85400000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset",
+			"ChunkId": "42a5bdf71bdb9f1200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerCapsule.uasset",
+			"ChunkId": "a8fda97722bfb0e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerBox.uasset",
+			"ChunkId": "8953c1244c740aad00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset",
+			"ChunkId": "200cd3dc0f3f673a00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk",
+			"ChunkId": "200cd3dc0f3f673a00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset",
+			"ChunkId": "a996adcfa357ed2d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk",
+			"ChunkId": "a996adcfa357ed2d00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset",
+			"ChunkId": "730711032edb546300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset",
+			"ChunkId": "92d47df83dccf7d800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk",
+			"ChunkId": "92d47df83dccf7d800000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset",
+			"ChunkId": "e21a9990b0ff22d600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset",
+			"ChunkId": "b3b465c34fc83f8e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset",
+			"ChunkId": "d28cf23bc747e18000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerSphere.uasset",
+			"ChunkId": "67d4e8f2a83a1c4800000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Trigger.uasset",
+			"ChunkId": "9acae5549f0219b000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Trigger.ubulk",
+			"ChunkId": "9acae5549f0219b000000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
+			"ChunkId": "7539f12095a3f0d100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
+			"ChunkId": "7539f12095a3f0d100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
+			"ChunkId": "7a7173cfb4095b9f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk",
+			"ChunkId": "7a7173cfb4095b9f00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
+			"ChunkId": "b743bdd5e5df72a400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk",
+			"ChunkId": "b743bdd5e5df72a400000002"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/RobotoDistanceField.uasset",
+			"ChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset",
+			"ChunkId": "6c54e7f6d4ea912200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture.uasset",
+			"ChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
+			"ChunkId": "3e6f2bc6739d380300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.uasset",
+			"ChunkId": "6baf53cf79c0948b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.ubulk",
+			"ChunkId": "6baf53cf79c0948b00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset",
+			"ChunkId": "c88f4734102acff000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset",
+			"ChunkId": "85cfc579099524d700000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset",
+			"ChunkId": "3971ec1ba77895c500000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset",
+			"ChunkId": "100a686260435bc000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset",
+			"ChunkId": "b82834f1c5d5064600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset",
+			"ChunkId": "b3b0c8e737f4c6b200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset",
+			"ChunkId": "2917d76711e58ca300000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset",
+			"ChunkId": "c6249d4d30bbac8400000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset",
+			"ChunkId": "9148ba92525e0ece00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset",
+			"ChunkId": "a69bcbb54afb7d4300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/Black.uasset",
+			"ChunkId": "cda0cf6115260c9400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
+			"ChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
+			"ChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Ground_Gravel_N.uasset",
+			"ChunkId": "bd5502e4e833810e00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Ground_Gravel_N.ubulk",
+			"ChunkId": "bd5502e4e833810e00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_MacroVariation.uasset",
+			"ChunkId": "5f4908670638ad7000000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Perlin_Noise_M.uasset",
+			"ChunkId": "dcbceed83389fd1500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Perlin_Noise_M.ubulk",
+			"ChunkId": "dcbceed83389fd1500000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Rock_Sandstone_D.uasset",
+			"ChunkId": "0399b2871e28249e00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Rock_Sandstone_D.ubulk",
+			"ChunkId": "0399b2871e28249e00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Rock_Sandstone_N.uasset",
+			"ChunkId": "b2576d4627b99ede00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Textures/T_Rock_Sandstone_N.ubulk",
+			"ChunkId": "b2576d4627b99ede00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/point_red.uasset",
+			"ChunkId": "5870a2aa4095eb9000000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Rifle_Skeleton.uasset",
+			"ChunkId": "ddcbe242e215cbb700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/Gameplay/Pickups/M_PickUp_Master.uasset",
+			"ChunkId": "19488226f998f32800000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Meshes/Gameplay/Pickups/SM_Health.uasset",
+			"ChunkId": "bf2211faf2d01afe00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Meshes/General/S_Sphere.uasset",
+			"ChunkId": "7a79923500b2c14700000001"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
+			"ChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset",
+			"ChunkId": "fd3456639b15286700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMeshes/Humanoid.uasset",
+			"ChunkId": "c74fd82786f88e6900000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset",
+			"ChunkId": "3b047fdea50e991600000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset",
+			"ChunkId": "2f8460ae5086bffa00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset",
+			"ChunkId": "cd82da00055e610500000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_TintAllChannels.uasset",
+			"ChunkId": "377f65241d6b602b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/M_BodyDamage.uasset",
+			"ChunkId": "9e559b1f4765a27300000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset",
+			"ChunkId": "629063fd362b2e3e00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset",
+			"ChunkId": "e43855b9d402d6d500000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Decal.uasset",
+			"ChunkId": "8e3da6042ffa5cba00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_RoughnessOverride.uasset",
+			"ChunkId": "52721d7371c6c12c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/ML_BoltMetal.uasset",
+			"ChunkId": "95ba4363ad7cef2200000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Emissive.uasset",
+			"ChunkId": "0b7ab2087ec6cd4800000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Tiles/T_Sctraches_01.uasset",
+			"ChunkId": "12385b5b330e7a3900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Tiles/T_Sctraches_01.ubulk",
+			"ChunkId": "12385b5b330e7a3900000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_Metal_02.uasset",
+			"ChunkId": "8dba05d689671b7b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_Metal_02.ubulk",
+			"ChunkId": "8dba05d689671b7b00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Smoke/T_SmokeBall_01_8_8.uasset",
+			"ChunkId": "b9ec0092c17a859c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Smoke/T_SmokeBall_01_8_8.ubulk",
+			"ChunkId": "b9ec0092c17a859c00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Water/T_Steam_02_Packed.uasset",
+			"ChunkId": "edc1942f225b88bd00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Water/T_Steam_02_Packed.ubulk",
+			"ChunkId": "edc1942f225b88bd00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M.uasset",
+			"ChunkId": "053e13e5da02083500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M.ubulk",
+			"ChunkId": "053e13e5da02083500000002"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/health_icon.uasset",
+			"ChunkId": "3f9e88a56b1cc84200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/health_icon.ubulk",
+			"ChunkId": "3f9e88a56b1cc84200000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact02.uasset",
+			"ChunkId": "68c572edbbd2352600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact02.ubulk",
+			"ChunkId": "68c572edbbd2352600000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.uasset",
+			"ChunkId": "ab38a6be53f2498a00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.ubulk",
+			"ChunkId": "ab38a6be53f2498a00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.uasset",
+			"ChunkId": "cf6d82f23df1140000000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.ubulk",
+			"ChunkId": "cf6d82f23df1140000000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.uasset",
+			"ChunkId": "73c8a811537069bf00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.ubulk",
+			"ChunkId": "73c8a811537069bf00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.uasset",
+			"ChunkId": "f2f43cd1f9b4e8f700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.ubulk",
+			"ChunkId": "f2f43cd1f9b4e8f700000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.uasset",
+			"ChunkId": "edc2d3201dbc929800000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.ubulk",
+			"ChunkId": "edc2d3201dbc929800000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.uasset",
+			"ChunkId": "ed610b0e51de527300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.ubulk",
+			"ChunkId": "ed610b0e51de527300000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.uasset",
+			"ChunkId": "98c3c43d6f1575e700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.ubulk",
+			"ChunkId": "98c3c43d6f1575e700000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.uasset",
+			"ChunkId": "4df0f4a83cc958ca00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.ubulk",
+			"ChunkId": "4df0f4a83cc958ca00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.uasset",
+			"ChunkId": "3c4ceae7f8b8015000000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.ubulk",
+			"ChunkId": "3c4ceae7f8b8015000000002"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/player_icon.uasset",
+			"ChunkId": "3746a395554bd93800000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/blood_effect_texture.uasset",
+			"ChunkId": "5d61b869e0f8e52400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/AttackerPortrait.uasset",
+			"ChunkId": "5bf212da5594cbde00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/MarinePortrait.uasset",
+			"ChunkId": "265eff264f79d8db00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/minimap_layout.uasset",
+			"ChunkId": "9bfc3a110223223100000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/minimap_layout.ubulk",
+			"ChunkId": "9bfc3a110223223100000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact03.uasset",
+			"ChunkId": "3e3d16eae406e62b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact03.ubulk",
+			"ChunkId": "3e3d16eae406e62b00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact04.uasset",
+			"ChunkId": "4c603513f2f5ff5500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact04.ubulk",
+			"ChunkId": "4c603513f2f5ff5500000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact05.uasset",
+			"ChunkId": "58524ea92383f66700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact05.ubulk",
+			"ChunkId": "58524ea92383f66700000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact06.uasset",
+			"ChunkId": "4d7216efce44f19b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact06.ubulk",
+			"ChunkId": "4d7216efce44f19b00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact07.uasset",
+			"ChunkId": "6f2def8d1bf75dbe00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact07.ubulk",
+			"ChunkId": "6f2def8d1bf75dbe00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact08.uasset",
+			"ChunkId": "ea6ba073a608f98500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact08.ubulk",
+			"ChunkId": "ea6ba073a608f98500000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact01_Stereo.uasset",
+			"ChunkId": "6e0be01539b678c200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact01_Stereo.ubulk",
+			"ChunkId": "6e0be01539b678c200000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact02_Stereo.uasset",
+			"ChunkId": "5bb02a1bcfdee34600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact02_Stereo.ubulk",
+			"ChunkId": "5bb02a1bcfdee34600000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact03_Stereo.uasset",
+			"ChunkId": "78b24aa79439e75700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact03_Stereo.ubulk",
+			"ChunkId": "78b24aa79439e75700000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact04_Stereo.uasset",
+			"ChunkId": "cbf52645c5819a9900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact04_Stereo.ubulk",
+			"ChunkId": "cbf52645c5819a9900000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact05_Stereo.uasset",
+			"ChunkId": "c714cb38db8f91f500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact05_Stereo.ubulk",
+			"ChunkId": "c714cb38db8f91f500000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact06_Stereo.uasset",
+			"ChunkId": "3442ecf177300c6b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact06_Stereo.ubulk",
+			"ChunkId": "3442ecf177300c6b00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact07_Stereo.uasset",
+			"ChunkId": "93f08c9167e0d25300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact07_Stereo.ubulk",
+			"ChunkId": "93f08c9167e0d25300000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact08_Stereo.uasset",
+			"ChunkId": "97fc3d51a50f9fdf00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact08_Stereo.ubulk",
+			"ChunkId": "97fc3d51a50f9fdf00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D.uasset",
+			"ChunkId": "e942f846a99f44f400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D.ubulk",
+			"ChunkId": "e942f846a99f44f400000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N.uasset",
+			"ChunkId": "91da85ee8c2945eb00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N.ubulk",
+			"ChunkId": "91da85ee8c2945eb00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_02_M.uasset",
+			"ChunkId": "59635ce55fbc3cb800000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_02_M.ubulk",
+			"ChunkId": "59635ce55fbc3cb800000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_D.uasset",
+			"ChunkId": "29dee4fcd8af117600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_D.ubulk",
+			"ChunkId": "29dee4fcd8af117600000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_M.uasset",
+			"ChunkId": "da11b853edea094c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_M.ubulk",
+			"ChunkId": "da11b853edea094c00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_M_03tga.uasset",
+			"ChunkId": "809ad2c76f44797600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_M_03tga.ubulk",
+			"ChunkId": "809ad2c76f44797600000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_N.uasset",
+			"ChunkId": "7de347fe2b5061f200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/LensFlare/Flare_02.uasset",
+			"ChunkId": "d73ed531a72eaf8d00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/LensFlare/Flare_02.ubulk",
+			"ChunkId": "d73ed531a72eaf8d00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Smoke/T_Clouds_01.uasset",
+			"ChunkId": "dfe98f98f955ea8100000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Smoke/T_Clouds_01.ubulk",
+			"ChunkId": "dfe98f98f955ea8100000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/LensFlare/T_Lensflare_01.uasset",
+			"ChunkId": "9f4249ae6798cfb900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/LensFlare/T_Lensflare_01.ubulk",
+			"ChunkId": "9f4249ae6798cfb900000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Weapon/T_muzzle_flashes.uasset",
+			"ChunkId": "b914c235a24ea20400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Weapon/T_muzzle_flashes.ubulk",
+			"ChunkId": "b914c235a24ea20400000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Mask/T_SquareMaskTightEdge.uasset",
+			"ChunkId": "94bcb05ae69111d100000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Mask/T_SquareMaskTightEdge.ubulk",
+			"ChunkId": "94bcb05ae69111d100000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Noise/T_TileNoise.uasset",
+			"ChunkId": "cc44ad2ffa20551700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Noise/T_TileNoise.ubulk",
+			"ChunkId": "cc44ad2ffa20551700000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib01_Stereo.uasset",
+			"ChunkId": "cc41944b6a2fa11400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib01_Stereo.ubulk",
+			"ChunkId": "cc41944b6a2fa11400000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib02_Stereo.uasset",
+			"ChunkId": "0145df4b7320585600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib02_Stereo.ubulk",
+			"ChunkId": "0145df4b7320585600000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib03_Stereo.uasset",
+			"ChunkId": "0f510d99a1942d5a00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib03_Stereo.ubulk",
+			"ChunkId": "0f510d99a1942d5a00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib04_Stereo.uasset",
+			"ChunkId": "fd6a18ba6fa66b5500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib04_Stereo.ubulk",
+			"ChunkId": "fd6a18ba6fa66b5500000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib05_Stereo.uasset",
+			"ChunkId": "f7cdce4a94ea554b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib05_Stereo.ubulk",
+			"ChunkId": "f7cdce4a94ea554b00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib06_Stereo.uasset",
+			"ChunkId": "28a926e8ea714d6300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib06_Stereo.ubulk",
+			"ChunkId": "28a926e8ea714d6300000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/T_Vista_Grass_N.uasset",
+			"ChunkId": "a351ffd1a0f2944300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/T_Vista_Grass_N.ubulk",
+			"ChunkId": "a351ffd1a0f2944300000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_Fabric_N_01.uasset",
+			"ChunkId": "8d962aeda8c0a17100000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_Fabric_N_01.ubulk",
+			"ChunkId": "8d962aeda8c0a17100000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGun_Decals.uasset",
+			"ChunkId": "9c4a023ea392142100000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGun_Decals.ubulk",
+			"ChunkId": "9c4a023ea392142100000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGun_Display_EM.uasset",
+			"ChunkId": "dd070617e6fec02c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGun_Display_EM.ubulk",
+			"ChunkId": "dd070617e6fec02c00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
+			"ChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
+			"ChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
+			"ChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
+			"ChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
+			"ChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
+			"ChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
+			"ChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
+			"ChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"ChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
+			"ChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/holo_layer_1_5.uasset",
+			"ChunkId": "4f7c0111b6eec59500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/holo_layer_1_5.ubulk",
+			"ChunkId": "4f7c0111b6eec59500000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/SightLens_maskA.uasset",
+			"ChunkId": "b88e247b2b4fa27400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/SightLens_maskA.ubulk",
+			"ChunkId": "b88e247b2b4fa27400000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Spark/T_SparkCore_2X2.uasset",
+			"ChunkId": "3255f27092a4bd7900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Textures/Spark/T_SparkCore_2X2.ubulk",
+			"ChunkId": "3255f27092a4bd7900000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_Metal_01.uasset",
+			"ChunkId": "04a0eecc2d5cafbf00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Textures/Chr_FPS_Metal_01.ubulk",
+			"ChunkId": "04a0eecc2d5cafbf00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGun_01_N.uasset",
+			"ChunkId": "80b5e95a2aa775b000000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGun_01_N.ubulk",
+			"ChunkId": "80b5e95a2aa775b000000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGunT1_section.uasset",
+			"ChunkId": "87fa6cd3951c3c6d00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGunT1_section.ubulk",
+			"ChunkId": "87fa6cd3951c3c6d00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGunT1_shade.uasset",
+			"ChunkId": "424e071b2d3ddb1700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGunT1_shade.ubulk",
+			"ChunkId": "424e071b2d3ddb1700000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGun_02_N.uasset",
+			"ChunkId": "ca9a795d34ba868e00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGun_02_N.ubulk",
+			"ChunkId": "ca9a795d34ba868e00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGunT2_section.uasset",
+			"ChunkId": "0a6bc0e5e9a5609000000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGunT2_section.ubulk",
+			"ChunkId": "0a6bc0e5e9a5609000000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGunT2_shade.uasset",
+			"ChunkId": "b865d2c34ba2e75300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/MagGunT2_shade.ubulk",
+			"ChunkId": "b865d2c34ba2e75300000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/SightLens_maskB.uasset",
+			"ChunkId": "28a29c8ed1c1b9d200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Textures/SightLens_maskB.ubulk",
+			"ChunkId": "28a29c8ed1c1b9d200000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.uasset",
+			"ChunkId": "04b7fa5923d9fa9f00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.ubulk",
+			"ChunkId": "04b7fa5923d9fa9f00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_Metal_Metal02_D.uasset",
+			"ChunkId": "6d1012bbaa0ee06a00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_Metal_Metal02_D.ubulk",
+			"ChunkId": "6d1012bbaa0ee06a00000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_PaintedMetal01_N.uasset",
+			"ChunkId": "fade60c7d7ef57d600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_PaintedMetal01_N.ubulk",
+			"ChunkId": "fade60c7d7ef57d600000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_PaintedMetal02.uasset",
+			"ChunkId": "12b4d3a9a931aaf900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_PaintedMetal02.ubulk",
+			"ChunkId": "12b4d3a9a931aaf900000002"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_Rubber.uasset",
+			"ChunkId": "9a9f462b809fbe1c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/T_Rubber.ubulk",
+			"ChunkId": "9a9f462b809fbe1c00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
+			"ChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset",
+			"ChunkId": "ea704fa9c99103cc00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset",
+			"ChunkId": "6e6a371ba7ffd6e900000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
+			"ChunkId": "51f4a9204ba994c500000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
+			"ChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
+			"ChunkId": "6fab96d8842b418000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset",
+			"ChunkId": "3889933e64b3022c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
+			"ChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
+			"ChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
+			"ChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+			"ChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+			"ChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+			"ChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
+			"ChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "14c0e68102482a4700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset",
+			"ChunkId": "a4739b1d475b4a3e00000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
+			"ChunkId": "37cdeb5ce1d3ccd800000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset",
+			"ChunkId": "fabb39727be145c100000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/RT_MiniMap_Mat.uasset",
+			"ChunkId": "3d8a169869284c9e00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Music/ShooterGame_Music_Intro_Cue.uasset",
+			"ChunkId": "96e7eca297fe34de00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
+			"ChunkId": "6098725f85292e1b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Materials/M_MarsRock.uasset",
+			"ChunkId": "4c3d1c8154586ba800000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/Materials/M_Rock_Sandstone.uasset",
+			"ChunkId": "3848e0a7bcd99e3b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Idle.uasset",
+			"ChunkId": "e587cda90877022500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Fwd.uasset",
+			"ChunkId": "59f1d6d940480cab00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B.uasset",
+			"ChunkId": "d3c994fc7820b76700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C.uasset",
+			"ChunkId": "bc3577d4b247349d00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/RifleShoot_Cue.uasset",
+			"ChunkId": "2792d4df3725da2900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/Weapon_AssaultRifle/Stereo/RifleShootEnd_Cue.uasset",
+			"ChunkId": "95c706452139190a00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/W_BloodEffect.uasset",
+			"ChunkId": "48f08f0a748d773400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Pick-ups/P_Health.uasset",
+			"ChunkId": "900b567d29788a2600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A.uasset",
+			"ChunkId": "a2c20c740a85b6b000000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact_Cue.uasset",
+			"ChunkId": "61f44464b2f2416400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider.uasset",
+			"ChunkId": "9af05d812306582800000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Marine_Skeleton.uasset",
+			"ChunkId": "e0ca0e54f004ae6c00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uasset",
+			"ChunkId": "623919f27e83686c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/ML_Emissive_Custom.uasset",
+			"ChunkId": "3af097a8c528103400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/LensFlare/M_LensFlare_02.uasset",
+			"ChunkId": "d539a8d175157b0900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/Smoke/M_ImpactSmoke.uasset",
+			"ChunkId": "30c62c75425c504000000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/Smoke/M_SmokeBall.uasset",
+			"ChunkId": "7677bc18cbfcefde00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/Smoke/M_MuzzleSmokeDetail_GPU.uasset",
+			"ChunkId": "56da8bebc9877c5f00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/spark/M_spark_subUV.uasset",
+			"ChunkId": "8fee6277e3e2496b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/LensFlare/M_Lensflare_01.uasset",
+			"ChunkId": "a1f54defcef8770c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle.uasset",
+			"ChunkId": "f453783d9001f28900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV.uasset",
+			"ChunkId": "dacf61ef50955ae200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Misc/Materials/Weapon/M_MuzzleGlow.uasset",
+			"ChunkId": "3d217d769582986f00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Sounds/FoleyFlesh/Stereo/Cue_CreatureDeath.uasset",
+			"ChunkId": "286fc3fd72b1d58700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/ML_Base.uasset",
+			"ChunkId": "1e860a0ec35eb53e00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/ML_Rubber_dark.uasset",
+			"ChunkId": "0b24b58c945934a100000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/ML_Glass.uasset",
+			"ChunkId": "cd9a327df302659600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/ML_Metal_light.uasset",
+			"ChunkId": "49716f220d66d38400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/ML_Metal_Painted.uasset",
+			"ChunkId": "220806d07934f1ef00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/ML_Rubber_light.uasset",
+			"ChunkId": "0daa26cac31e7f6800000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Materials/MagGun_SightLens_Mat.uasset",
+			"ChunkId": "08f4db414358c12c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/ML_Metal_Copper.uasset",
+			"ChunkId": "fa24d761e4528a5700000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/ML_Metal_Gray.uasset",
+			"ChunkId": "ce5a4a45b61802c600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/ML_Paint.uasset",
+			"ChunkId": "edadf967eed0af9400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/MaterialLayers/ML_Rubber.uasset",
+			"ChunkId": "3497902f0bcea68500000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
+			"ChunkId": "1eb36adebf3e8d6900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
+			"ChunkId": "b2e758c7adce0aa000000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
+			"ChunkId": "603c62bd8092b35100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset",
+			"ChunkId": "ed80e6fdcb7b904c00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset",
+			"ChunkId": "11adfda265bc32c200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset",
+			"ChunkId": "d4904df7434a1c3e00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset",
+			"ChunkId": "92fa3fc272bbaee700000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset",
+			"ChunkId": "913432800511c53c00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset",
+			"ChunkId": "24be0d3101b3b5c400000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset",
+			"ChunkId": "4783ca75c2bc153700000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset",
+			"ChunkId": "8c9eb2537b56333800000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset",
+			"ChunkId": "68b44f7e8ffd781d00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset",
+			"ChunkId": "85fc957de8cdf73500000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset",
+			"ChunkId": "0ec7598e2050155600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset",
+			"ChunkId": "7bb897d6d85abe5e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset",
+			"ChunkId": "4b7bf926a5212df600000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cone.uasset",
+			"ChunkId": "f23f619700918ac500000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cylinder.uasset",
+			"ChunkId": "7607d982d08b414700000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Sphere.uasset",
+			"ChunkId": "4a782f60fcb4c26e00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry.umap",
+			"ChunkId": "d31cf458faf4915200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset",
+			"ChunkId": "1595b610bf425b8d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset",
+			"ChunkId": "0d2d768a1192b97000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset",
+			"ChunkId": "c66b43ec76bfc59100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset",
+			"ChunkId": "635920dd8e97e89c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset",
+			"ChunkId": "81e5ad0aacfbd7d600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset",
+			"ChunkId": "ee735f95c6fe420100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset",
+			"ChunkId": "299f33e3d422c87c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset",
+			"ChunkId": "6bcf318dbf32160d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset",
+			"ChunkId": "8ff50e13d07b6e9600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset",
+			"ChunkId": "282dd182b8a2782f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset",
+			"ChunkId": "2c09f940b5d3cf5600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset",
+			"ChunkId": "d77ff1320cafb8eb00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset",
+			"ChunkId": "3c8fe56dcc4c94e400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset",
+			"ChunkId": "021da6225c7f517f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset",
+			"ChunkId": "2f97b476b27e825100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset",
+			"ChunkId": "81539c5da11600ae00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset",
+			"ChunkId": "8a3d5c4c771cc2b800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset",
+			"ChunkId": "47760300c23f376100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset",
+			"ChunkId": "e2e0e65221e757ff00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset",
+			"ChunkId": "7d129f2ecdbade0a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset",
+			"ChunkId": "a1157adbe06ab91600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset",
+			"ChunkId": "0f013d461d34e71f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset",
+			"ChunkId": "1380a38fb2d9d09b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset",
+			"ChunkId": "ccfbf6fb8c94d52600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset",
+			"ChunkId": "2feae67d1f28277b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset",
+			"ChunkId": "e28775e15c9fefaa00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset",
+			"ChunkId": "c42798d4b7d7893a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset",
+			"ChunkId": "db28b8396928adf000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset",
+			"ChunkId": "9936bd915052cb2200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset",
+			"ChunkId": "1b6c8e2dd045aecf00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset",
+			"ChunkId": "d23a4e7d2f47187c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset",
+			"ChunkId": "1d747f2667a6cc3e00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset",
+			"ChunkId": "d1e559d0e2302cd200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset",
+			"ChunkId": "41772863b6990e2300000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset",
+			"ChunkId": "88eaefb43659df9600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset",
+			"ChunkId": "5f0bb60d5aa9cbe000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset",
+			"ChunkId": "a91d103488503cd200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset",
+			"ChunkId": "b971d0721fc7bec800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset",
+			"ChunkId": "032dd1d44e4fc35000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset",
+			"ChunkId": "26708189dce06d9c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset",
+			"ChunkId": "b0e6f22a1229f33400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset",
+			"ChunkId": "b6ecf8eaf9e325c400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset",
+			"ChunkId": "1d2105a53b99f8b400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset",
+			"ChunkId": "0bd00fa41afbdaed00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset",
+			"ChunkId": "4bf1e0df3070bca100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset",
+			"ChunkId": "6ff734fd30628e8c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset",
+			"ChunkId": "c37eb6c5460e3abb00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset",
+			"ChunkId": "34f8d388913445db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset",
+			"ChunkId": "d623d5bc8818ccbe00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset",
+			"ChunkId": "42cab4d3ee68987100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset",
+			"ChunkId": "dbdfc4bccd3d616d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset",
+			"ChunkId": "29ff7e5dd78cdef100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset",
+			"ChunkId": "a9e8edb09171185f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset",
+			"ChunkId": "1b32f3f341cb246000000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Plane.uasset",
+			"ChunkId": "a44601bc68ca3f2400000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cube.uasset",
+			"ChunkId": "71fe0432abe4de2400000001"
+		},
+		{
+			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset",
+			"ChunkId": "7b9c08e592b6f57800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset",
+			"ChunkId": "85eb7ec9f6c8613a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
+			"ChunkId": "dd353fe85598727e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
+			"ChunkId": "34868b7f9c10838900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/SM_SkySphere.uasset",
+			"ChunkId": "48df828be219f7ad00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Rocks/SM_Rock.uasset",
+			"ChunkId": "c752a2118bcc093300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/SK_Greater_Spider.uasset",
+			"ChunkId": "4f0086ef32b84e4e00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Animations/Death.uasset",
+			"ChunkId": "798dda30160ed6fe00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Animations/Idle.uasset",
+			"ChunkId": "ba6b886dd00af78b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Animations/Run_Bwd.uasset",
+			"ChunkId": "7c1f710656d4bc4c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Animations/Run_Fwd.uasset",
+			"ChunkId": "4e8049cc377abe6500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Animations/Run_Lt.uasset",
+			"ChunkId": "8f2e03d78962492c00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Animations/Run_Rt.uasset",
+			"ChunkId": "388a6fb912fa9a1900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Weapons/Impacts/P_AssaultRifle_IH.uasset",
+			"ChunkId": "acbc0109e7dd52de00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Death.uasset",
+			"ChunkId": "e3a3920bf9153ba800000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/M_Marine.uasset",
+			"ChunkId": "bb3bbde414bdaa5b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Materials/MagGun_SightLens_Mat_Inst.uasset",
+			"ChunkId": "e8867fb7431cb57500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Materials/MagGun_MatA.uasset",
+			"ChunkId": "67f715fd8e36260900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Materials/MagGun_MatB.uasset",
+			"ChunkId": "ffdad39aa1a2011300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/point_red_Sprite.uasset",
+			"ChunkId": "6b9c569e931f9b1400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/player_icon_Sprite.uasset",
+			"ChunkId": "0193328f564c2adf00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/Textures/health_icon_Sprite.uasset",
+			"ChunkId": "dd9cbbd82592b77400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset",
+			"ChunkId": "3a0245e4904b10b500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Weapons/Impacts/P_CreatureImpact.uasset",
+			"ChunkId": "0790cb415a41337b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Effects/Weapons/Muzzle/P_AssaultRifle_MF.uasset",
+			"ChunkId": "7d010f271d299ab700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
+			"ChunkId": "0e6a0028be3a2a6c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+			"ChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/BP_Sky_Sphere.uasset",
+			"ChunkId": "cdbcbf4a06978c3b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Animations/BlendSpace_Movement.uasset",
+			"ChunkId": "3b854cd0c5d618d900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage.uasset",
+			"ChunkId": "5e6d5b03965627bb00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage.uasset",
+			"ChunkId": "53ff61c96164f2c400000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage.uasset",
+			"ChunkId": "2d7ae10cb8363fec00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Marine.uasset",
+			"ChunkId": "f340cae2cf0f18b300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Materials/MI_Marine.uasset",
+			"ChunkId": "774ee1ea3141640600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Materials/MagGun_MatA_Inst3.uasset",
+			"ChunkId": "2024ffc315c3b45600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Materials/MagGun_MatB_Inst2.uasset",
+			"ChunkId": "8c99cb8d88dd781500000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Weapons/Rifle.uasset",
+			"ChunkId": "99d0fc70bc17e6a900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset",
+			"ChunkId": "cadc4d0ec817b83400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset",
+			"ChunkId": "cda0bce26734770500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset",
+			"ChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Blueprints/PickUps/BP_HealthPickUp.uasset",
+			"ChunkId": "b7c0ad5d4ef0490900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Blueprints/BP_GameMode.uasset",
+			"ChunkId": "8f1a19d35b37cc6e00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/W_PlayerLose.uasset",
+			"ChunkId": "86b04ca1dd89c30600000001"
+		},
+		{
+			"Path": "MarsMarine/Content/UI/W_PlayerHUD.uasset",
+			"ChunkId": "b0f586d1664f06e200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Blueprints/Characters/BP_Marine.uasset",
+			"ChunkId": "6c0c8b862f9273a900000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Blueprints/Volums/BP_WarningVolume.uasset",
+			"ChunkId": "dd88d7598b2c4e4300000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Marine/Animations/AnimBP_Marine.uasset",
+			"ChunkId": "187f4a29b26dcecf00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Blueprints/Characters/BP_Alien.uasset",
+			"ChunkId": "ea287fbc9f31a29b00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Characters/Enemy_Great_Spider/Animations/AnimBP_AlienSpider.uasset",
+			"ChunkId": "3774a6bf005df45a00000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Levels/Mars.umap",
+			"ChunkId": "4418a50a49dfc47200000001"
+		},
+		{
+			"Path": "MarsMarine/Content/Levels/Mars.ubulk",
+			"ChunkId": "4418a50a49dfc47200000002"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
+			"ChunkId": "cb90c94586b3228900000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/ControlRig/Controls/ControlRigGizmoMaterial",
+			"PackageChunkId": "90442f10ca8d9eb700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlueNoise",
+			"PackageChunkId": "1439d3a2f78315bf00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/DebugEditorMaterial",
+			"PackageChunkId": "7045cf1b55a1317500000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Master",
+			"PackageChunkId": "e670df8e769d382e00000001"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/CoreParameters",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/LightRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/MeshRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/RibbonRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/SpriteRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDestructiblePhysicalMaterial",
+			"PackageChunkId": "f324387808549ca400000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultPhysicalMaterial",
+			"PackageChunkId": "86f514aa5cdc08e700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/GizmoMaterial",
+			"PackageChunkId": "4f766dcdfcc10abc00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
+			"PackageChunkId": "d9ef76f15dcbda9d00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/RemoveSurfaceMaterial",
+			"PackageChunkId": "f0a7f83421ac425b00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector",
+			"PackageChunkId": "5f510b7cd6e0bdc800000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboard",
+			"PackageChunkId": "8fcb1cae0c92026900000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeWind",
+			"PackageChunkId": "11e16642d5df4eca00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeCameraFacing",
+			"PackageChunkId": "a8a408dbac6bb61700000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackInteger3",
+			"PackageChunkId": "7b967f8ff09764ce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackDirection",
+			"PackageChunkId": "931f8593c76b1a3700000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeWindMotion",
+			"PackageChunkId": "3bd77c49df92ee7b00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBranchMotion",
+			"PackageChunkId": "bb0c9910913c4acc00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorLength",
+			"PackageChunkId": "3f4f90b51972562400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize",
+			"PackageChunkId": "b2e55f36209c19b000000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ObjectLocalBounds",
+			"PackageChunkId": "8d4486caf50605b200000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset",
+			"PackageChunkId": "84ee12d7bc5f5a8000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/DefaultGizmoLibraryNormalized",
+			"PackageChunkId": "c1ceadea19a929af00000001"
+		},
+		{
+			"Name": "/Engine/Tutorial/ContentIntroCurve",
+			"PackageChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairMeshesDefaultMaterial",
+			"PackageChunkId": "a325708448a8980800000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairCardsDefaultMaterial",
+			"PackageChunkId": "a257a4a1759b7c6d00000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairDefaultMaterial",
+			"PackageChunkId": "7bae9d93c88ae44900000001"
+		},
+		{
+			"Name": "/Engine/EditorLandscapeResources/DataLayer",
+			"PackageChunkId": "fe8e2f79bc05d6e200000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoRegular",
+			"PackageChunkId": "5ba734afa75fb33c00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoLight",
+			"PackageChunkId": "0668993fb5b5811c00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoItalic",
+			"PackageChunkId": "6ef7eb5c150af73a00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoBoldItalic",
+			"PackageChunkId": "0fcbf7e6705a3afe00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoBold",
+			"PackageChunkId": "368e94bf2073b74d00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/DroidSansFallback",
+			"PackageChunkId": "a9e44eb998f07d0800000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+			"PackageChunkId": "a06a91154845992200000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/Camera/CineMat",
+			"PackageChunkId": "a60f7c53ca2e732e00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/Xray",
+			"PackageChunkId": "b0afffa81f17b5cc00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/Main",
+			"PackageChunkId": "36f9c4a1a41147a000000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Solver",
+			"PackageChunkId": "5c918efb403d4bb200000001",
+			"BulkDataChunkIds": [
+				"5c918efb403d4bb200000002"
+			]
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/Empty",
+			"PackageChunkId": "efd3b99beb745ea100000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture",
+			"PackageChunkId": "b60fa590a5fe4d6f00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap",
+			"PackageChunkId": "c18dd883a0c55c8b00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Terrain",
+			"PackageChunkId": "5cea311860b94ecb00000001",
+			"BulkDataChunkIds": [
+				"5cea311860b94ecb00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorLandscapeResources/DefaultAlphaTexture",
+			"PackageChunkId": "8b12fc0ce026f5be00000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000",
+			"PackageChunkId": "ad84bf334b97e1af00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultBloomKernel",
+			"PackageChunkId": "cbab6b01dd8b7ffe00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/BSPVertex",
+			"PackageChunkId": "9784ada5ce57b7cb00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/SequenceRecorder/RecordingIndicator",
+			"PackageChunkId": "9c7151fedab8d7e200000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/SequenceRecorder/Countdown",
+			"PackageChunkId": "fd5c4b2d837478ae00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid",
+			"PackageChunkId": "624f937426db20c500000001",
+			"BulkDataChunkIds": [
+				"624f937426db20c500000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WeightMapPlaceholderTexture",
+			"PackageChunkId": "4077f21c1acd58d500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/MiniFont",
+			"PackageChunkId": "58ac407f95ae164b00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
+			"PackageChunkId": "b60efe12572543e800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultBokeh",
+			"PackageChunkId": "65401b411493477b00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
+			"PackageChunkId": "1c3a80931d7381bf00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT",
+			"PackageChunkId": "4eefe050ec0582d800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap_VT",
+			"PackageChunkId": "28ed83b8029dd22900000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor_VT",
+			"PackageChunkId": "c599b991259f3dc100000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT",
+			"PackageChunkId": "0219c3161c6d6eb200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT",
+			"PackageChunkId": "d77ca907bf9be46e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT",
+			"PackageChunkId": "adba4404ca6448ad00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor",
+			"PackageChunkId": "768633666781f70600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap",
+			"PackageChunkId": "2563b8e7aff6d26e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap",
+			"PackageChunkId": "7ba7b2b1aeafb4cc00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap",
+			"PackageChunkId": "641c8321450e97f400000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/InvalidLightmapSettings",
+			"PackageChunkId": "cdb6f2e8065df7c100000001",
+			"BulkDataChunkIds": [
+				"cdb6f2e8065df7c100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid_Low",
+			"PackageChunkId": "8500a33b2fedbab800000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/VolumeToRender",
+			"PackageChunkId": "7f8259be57e87dce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/EmptyNormal",
+			"PackageChunkId": "6f3a7c0fe1cf64ce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/game_wind_noise",
+			"PackageChunkId": "27d3dbbd9cb5875a00000001",
+			"BulkDataChunkIds": [
+				"27d3dbbd9cb5875a00000002"
+			]
+		},
+		{
+			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
+			"PackageChunkId": "2cc5808063f890db00000001",
+			"BulkDataChunkIds": [
+				"2cc5808063f890db00000002"
+			]
+		},
+		{
+			"Name": "/HairStrands/Materials/HairGroupColors",
+			"PackageChunkId": "55c5d73fec0135d200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/HairDebugColor",
+			"PackageChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/HairColorMap",
+			"PackageChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
+			"PackageChunkId": "0bf1d6a9c47f8ccc00000001",
+			"BulkDataChunkIds": [
+				"0bf1d6a9c47f8ccc00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
+			"PackageChunkId": "ba6543c81e92e56d00000001",
+			"BulkDataChunkIds": [
+				"ba6543c81e92e56d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
+			"PackageChunkId": "f267c7830989284200000001"
+		},
+		{
+			"Name": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental",
+			"PackageChunkId": "79688f0e793acea100000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4",
+			"PackageChunkId": "0ccdb42a00235ca400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3",
+			"PackageChunkId": "3f9ae4ae5e9a10b000000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components",
+			"PackageChunkId": "7276d40fd50dba5900000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2",
+			"PackageChunkId": "a29fb34f83f7d31a00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components",
+			"PackageChunkId": "94d5e4cbc0f4380c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
+			"PackageChunkId": "0125e0852ce3d3e700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
+			"PackageChunkId": "6a3b7a697242e13400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec",
+			"PackageChunkId": "6752d9e62e6e395700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
+			"PackageChunkId": "474711309ee6ba8900000001"
+		},
+		{
+			"Name": "/Engine/EngineMeshes/Sphere",
+			"PackageChunkId": "f421d8f857b9ed0300000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
+			"PackageChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Name": "/Game/Blueprints/SG_GameData",
+			"PackageChunkId": "c849bad07b72bbee00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry_BuiltData",
+			"PackageChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Enums/Enum_States",
+			"PackageChunkId": "d5a7ac3eaa056fef00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Enums/Enum_InputControlers",
+			"PackageChunkId": "61a75fe201fb454d00000001"
+		},
+		{
+			"Name": "/Game/UI/RT_MiniMap",
+			"PackageChunkId": "9012c94482e7b24c00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/C_Sky_Cloud_Color",
+			"PackageChunkId": "048e6fb25437845700000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/C_Sky_Horizon_Color",
+			"PackageChunkId": "344ace582a05a9a500000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/C_Sky_Zenith_Color",
+			"PackageChunkId": "a78221ddf916516d00000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton",
+			"PackageChunkId": "14d5090804e650a300000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Marine_PhysicsAsset",
+			"PackageChunkId": "9358ffb7f6d7c56400000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/Ramp/M_radial_ramp_soft",
+			"PackageChunkId": "cc3f98cdf894cc2b00000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Meshes/Weapon/SM_MuzzleCone",
+			"PackageChunkId": "ca08793d0d6ac94400000001"
+		},
+		{
+			"Name": "/Game/Sounds/Music/ShooterGame_Music",
+			"PackageChunkId": "9c28c3ab269d548200000001",
+			"BulkDataChunkIds": [
+				"9c28c3ab269d548200000002"
+			]
+		},
+		{
+			"Name": "/Game/Levels/Mars_BuiltData",
+			"PackageChunkId": "fed60a4869b6ad2200000001",
+			"BulkDataChunkIds": [
+				"fed60a4869b6ad2200000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Music/ShooterGame_Music_Intro",
+			"PackageChunkId": "1457af5e71d7cc1100000001",
+			"BulkDataChunkIds": [
+				"1457af5e71d7cc1100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Blue",
+			"PackageChunkId": "86737b633647e77300000001",
+			"BulkDataChunkIds": [
+				"86737b633647e77300000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Clouds_M",
+			"PackageChunkId": "927b2fe4876a1f7400000001",
+			"BulkDataChunkIds": [
+				"927b2fe4876a1f7400000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Stars",
+			"PackageChunkId": "56d51199b9b2142a00000001",
+			"BulkDataChunkIds": [
+				"56d51199b9b2142a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Rocks/Textures/T_Ground_Gravel_D",
+			"PackageChunkId": "79e8a0c467f8a2c300000001",
+			"BulkDataChunkIds": [
+				"79e8a0c467f8a2c300000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/S_BoxReflectionCapture",
+			"PackageChunkId": "ff5a26a059754af200000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Actor",
+			"PackageChunkId": "bd472f8cbf5f723d00000001",
+			"BulkDataChunkIds": [
+				"bd472f8cbf5f723d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack",
+			"PackageChunkId": "12bace0bc8b42ac000000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MAT_Groups_Visibility",
+			"PackageChunkId": "2127f99d332bc85400000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
+			"PackageChunkId": "42a5bdf71bdb9f1200000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerCapsule",
+			"PackageChunkId": "a8fda97722bfb0e600000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerBox",
+			"PackageChunkId": "8953c1244c740aad00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/LaserPointer/VR_LaserPower_01",
+			"PackageChunkId": "200cd3dc0f3f673a00000001",
+			"BulkDataChunkIds": [
+				"200cd3dc0f3f673a00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseShape64",
+			"PackageChunkId": "a996adcfa357ed2d00000001",
+			"BulkDataChunkIds": [
+				"a996adcfa357ed2d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64",
+			"PackageChunkId": "730711032edb546300000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseErosion",
+			"PackageChunkId": "92d47df83dccf7d800000001",
+			"BulkDataChunkIds": [
+				"92d47df83dccf7d800000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32",
+			"PackageChunkId": "e21a9990b0ff22d600000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/CloudWeatherTexture",
+			"PackageChunkId": "b3b465c34fc83f8e00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/CloudGradientTexture",
+			"PackageChunkId": "d28cf23bc747e18000000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerSphere",
+			"PackageChunkId": "67d4e8f2a83a1c4800000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Trigger",
+			"PackageChunkId": "9acae5549f0219b000000001",
+			"BulkDataChunkIds": [
+				"9acae5549f0219b000000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
+			"PackageChunkId": "7539f12095a3f0d100000001",
+			"BulkDataChunkIds": [
+				"7539f12095a3f0d100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
+			"PackageChunkId": "7a7173cfb4095b9f00000001",
+			"BulkDataChunkIds": [
+				"7a7173cfb4095b9f00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
+			"PackageChunkId": "b743bdd5e5df72a400000001",
+			"BulkDataChunkIds": [
+				"b743bdd5e5df72a400000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineFonts/RobotoDistanceField",
+			"PackageChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultVolumeTexture2D",
+			"PackageChunkId": "6c54e7f6d4ea912200000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultVolumeTexture",
+			"PackageChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTextureCube",
+			"PackageChunkId": "3e6f2bc6739d380300000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTexture",
+			"PackageChunkId": "6baf53cf79c0948b00000001",
+			"BulkDataChunkIds": [
+				"6baf53cf79c0948b00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MAT_Groups_Toggle",
+			"PackageChunkId": "c88f4734102acff000000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound",
+			"PackageChunkId": "85cfc579099524d700000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo",
+			"PackageChunkId": "3971ec1ba77895c500000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move",
+			"PackageChunkId": "100a686260435bc000000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event",
+			"PackageChunkId": "b82834f1c5d5064600000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director",
+			"PackageChunkId": "b3b0c8e737f4c6b200000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade",
+			"PackageChunkId": "2917d76711e58ca300000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster",
+			"PackageChunkId": "c6249d4d30bbac8400000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim",
+			"PackageChunkId": "9148ba92525e0ece00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float",
+			"PackageChunkId": "a69bcbb54afb7d4300000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/Black",
+			"PackageChunkId": "cda0cf6115260c9400000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/GradientTexture0",
+			"PackageChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/WhiteSquareTexture",
+			"PackageChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"PackageChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Name": "/Game/Rocks/Textures/T_Ground_Gravel_N",
+			"PackageChunkId": "bd5502e4e833810e00000001",
+			"BulkDataChunkIds": [
+				"bd5502e4e833810e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Rocks/Textures/T_MacroVariation",
+			"PackageChunkId": "5f4908670638ad7000000001"
+		},
+		{
+			"Name": "/Game/Rocks/Textures/T_Perlin_Noise_M",
+			"PackageChunkId": "dcbceed83389fd1500000001",
+			"BulkDataChunkIds": [
+				"dcbceed83389fd1500000002"
+			]
+		},
+		{
+			"Name": "/Game/Rocks/Textures/T_Rock_Sandstone_D",
+			"PackageChunkId": "0399b2871e28249e00000001",
+			"BulkDataChunkIds": [
+				"0399b2871e28249e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Rocks/Textures/T_Rock_Sandstone_N",
+			"PackageChunkId": "b2576d4627b99ede00000001",
+			"BulkDataChunkIds": [
+				"b2576d4627b99ede00000002"
+			]
+		},
+		{
+			"Name": "/Game/UI/Textures/point_red",
+			"PackageChunkId": "5870a2aa4095eb9000000001"
+		},
+		{
+			"Name": "/Game/Weapons/Rifle_Skeleton",
+			"PackageChunkId": "ddcbe242e215cbb700000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/Gameplay/Pickups/M_PickUp_Master",
+			"PackageChunkId": "19488226f998f32800000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Meshes/Gameplay/Pickups/SM_Health",
+			"PackageChunkId": "bf2211faf2d01afe00000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Meshes/General/S_Sphere",
+			"PackageChunkId": "7a79923500b2c14700000001"
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimBoneCompressionSettings",
+			"PackageChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimCurveCompressionSettings",
+			"PackageChunkId": "fd3456639b15286700000001"
+		},
+		{
+			"Name": "/Engine/EngineMeshes/Humanoid",
+			"PackageChunkId": "c74fd82786f88e6900000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal",
+			"PackageChunkId": "3b047fdea50e991600000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals",
+			"PackageChunkId": "2f8460ae5086bffa00000001"
+		},
+		{
+			"Name": "/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_Standard",
+			"PackageChunkId": "cd82da00055e610500000001"
+		},
+		{
+			"Name": "/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_TintAllChannels",
+			"PackageChunkId": "377f65241d6b602b00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/M_BodyDamage",
+			"PackageChunkId": "9e559b1f4765a27300000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient",
+			"PackageChunkId": "629063fd362b2e3e00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient",
+			"PackageChunkId": "e43855b9d402d6d500000001"
+		},
+		{
+			"Name": "/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_Decal",
+			"PackageChunkId": "8e3da6042ffa5cba00000001"
+		},
+		{
+			"Name": "/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_RoughnessOverride",
+			"PackageChunkId": "52721d7371c6c12c00000001"
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/ML_BoltMetal",
+			"PackageChunkId": "95ba4363ad7cef2200000001"
+		},
+		{
+			"Name": "/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_Emissive",
+			"PackageChunkId": "0b7ab2087ec6cd4800000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/Tiles/T_Sctraches_01",
+			"PackageChunkId": "12385b5b330e7a3900000001",
+			"BulkDataChunkIds": [
+				"12385b5b330e7a3900000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/Chr_FPS_Metal_02",
+			"PackageChunkId": "8dba05d689671b7b00000001",
+			"BulkDataChunkIds": [
+				"8dba05d689671b7b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Effects/Misc/Textures/Smoke/T_SmokeBall_01_8_8",
+			"PackageChunkId": "b9ec0092c17a859c00000001",
+			"BulkDataChunkIds": [
+				"b9ec0092c17a859c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Effects/Misc/Textures/Water/T_Steam_02_Packed",
+			"PackageChunkId": "edc1942f225b88bd00000001",
+			"BulkDataChunkIds": [
+				"edc1942f225b88bd00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M",
+			"PackageChunkId": "053e13e5da02083500000001",
+			"BulkDataChunkIds": [
+				"053e13e5da02083500000002"
+			]
+		},
+		{
+			"Name": "/Game/UI/Textures/health_icon",
+			"PackageChunkId": "3f9e88a56b1cc84200000001",
+			"BulkDataChunkIds": [
+				"3f9e88a56b1cc84200000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact02",
+			"PackageChunkId": "68c572edbbd2352600000001",
+			"BulkDataChunkIds": [
+				"68c572edbbd2352600000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo",
+			"PackageChunkId": "ab38a6be53f2498a00000001",
+			"BulkDataChunkIds": [
+				"ab38a6be53f2498a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo",
+			"PackageChunkId": "cf6d82f23df1140000000001",
+			"BulkDataChunkIds": [
+				"cf6d82f23df1140000000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo",
+			"PackageChunkId": "73c8a811537069bf00000001",
+			"BulkDataChunkIds": [
+				"73c8a811537069bf00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo",
+			"PackageChunkId": "f2f43cd1f9b4e8f700000001",
+			"BulkDataChunkIds": [
+				"f2f43cd1f9b4e8f700000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo",
+			"PackageChunkId": "edc2d3201dbc929800000001",
+			"BulkDataChunkIds": [
+				"edc2d3201dbc929800000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo",
+			"PackageChunkId": "ed610b0e51de527300000001",
+			"BulkDataChunkIds": [
+				"ed610b0e51de527300000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo",
+			"PackageChunkId": "98c3c43d6f1575e700000001",
+			"BulkDataChunkIds": [
+				"98c3c43d6f1575e700000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo",
+			"PackageChunkId": "4df0f4a83cc958ca00000001",
+			"BulkDataChunkIds": [
+				"4df0f4a83cc958ca00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo",
+			"PackageChunkId": "3c4ceae7f8b8015000000001",
+			"BulkDataChunkIds": [
+				"3c4ceae7f8b8015000000002"
+			]
+		},
+		{
+			"Name": "/Game/UI/Textures/player_icon",
+			"PackageChunkId": "3746a395554bd93800000001"
+		},
+		{
+			"Name": "/Game/UI/Textures/blood_effect_texture",
+			"PackageChunkId": "5d61b869e0f8e52400000001"
+		},
+		{
+			"Name": "/Game/UI/Textures/AttackerPortrait",
+			"PackageChunkId": "5bf212da5594cbde00000001"
+		},
+		{
+			"Name": "/Game/UI/Textures/MarinePortrait",
+			"PackageChunkId": "265eff264f79d8db00000001"
+		},
+		{
+			"Name": "/Game/UI/Textures/minimap_layout",
+			"PackageChunkId": "9bfc3a110223223100000001",
+			"BulkDataChunkIds": [
+				"9bfc3a110223223100000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact03",
+			"PackageChunkId": "3e3d16eae406e62b00000001",
+			"BulkDataChunkIds": [
+				"3e3d16eae406e62b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact04",
+			"PackageChunkId": "4c603513f2f5ff5500000001",
+			"BulkDataChunkIds": [
+				"4c603513f2f5ff5500000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact05",
+			"PackageChunkId": "58524ea92383f66700000001",
+			"BulkDataChunkIds": [
+				"58524ea92383f66700000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact06",
+			"PackageChunkId": "4d7216efce44f19b00000001",
+			"BulkDataChunkIds": [
+				"4d7216efce44f19b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact07",
+			"PackageChunkId": "6f2def8d1bf75dbe00000001",
+			"BulkDataChunkIds": [
+				"6f2def8d1bf75dbe00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact08",
+			"PackageChunkId": "ea6ba073a608f98500000001",
+			"BulkDataChunkIds": [
+				"ea6ba073a608f98500000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact01_Stereo",
+			"PackageChunkId": "6e0be01539b678c200000001",
+			"BulkDataChunkIds": [
+				"6e0be01539b678c200000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact02_Stereo",
+			"PackageChunkId": "5bb02a1bcfdee34600000001",
+			"BulkDataChunkIds": [
+				"5bb02a1bcfdee34600000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact03_Stereo",
+			"PackageChunkId": "78b24aa79439e75700000001",
+			"BulkDataChunkIds": [
+				"78b24aa79439e75700000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact04_Stereo",
+			"PackageChunkId": "cbf52645c5819a9900000001",
+			"BulkDataChunkIds": [
+				"cbf52645c5819a9900000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact05_Stereo",
+			"PackageChunkId": "c714cb38db8f91f500000001",
+			"BulkDataChunkIds": [
+				"c714cb38db8f91f500000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact06_Stereo",
+			"PackageChunkId": "3442ecf177300c6b00000001",
+			"BulkDataChunkIds": [
+				"3442ecf177300c6b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact07_Stereo",
+			"PackageChunkId": "93f08c9167e0d25300000001",
+			"BulkDataChunkIds": [
+				"93f08c9167e0d25300000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact08_Stereo",
+			"PackageChunkId": "97fc3d51a50f9fdf00000001",
+			"BulkDataChunkIds": [
+				"97fc3d51a50f9fdf00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D",
+			"PackageChunkId": "e942f846a99f44f400000001",
+			"BulkDataChunkIds": [
+				"e942f846a99f44f400000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N",
+			"PackageChunkId": "91da85ee8c2945eb00000001",
+			"BulkDataChunkIds": [
+				"91da85ee8c2945eb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/Chr_FPS_02_M",
+			"PackageChunkId": "59635ce55fbc3cb800000001",
+			"BulkDataChunkIds": [
+				"59635ce55fbc3cb800000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/Chr_FPS_D",
+			"PackageChunkId": "29dee4fcd8af117600000001",
+			"BulkDataChunkIds": [
+				"29dee4fcd8af117600000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/Chr_FPS_M",
+			"PackageChunkId": "da11b853edea094c00000001",
+			"BulkDataChunkIds": [
+				"da11b853edea094c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/Chr_FPS_M_03tga",
+			"PackageChunkId": "809ad2c76f44797600000001",
+			"BulkDataChunkIds": [
+				"809ad2c76f44797600000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/Chr_FPS_N",
+			"PackageChunkId": "7de347fe2b5061f200000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Textures/LensFlare/Flare_02",
+			"PackageChunkId": "d73ed531a72eaf8d00000001",
+			"BulkDataChunkIds": [
+				"d73ed531a72eaf8d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Effects/Misc/Textures/Smoke/T_Clouds_01",
+			"PackageChunkId": "dfe98f98f955ea8100000001",
+			"BulkDataChunkIds": [
+				"dfe98f98f955ea8100000002"
+			]
+		},
+		{
+			"Name": "/Game/Effects/Misc/Textures/LensFlare/T_Lensflare_01",
+			"PackageChunkId": "9f4249ae6798cfb900000001",
+			"BulkDataChunkIds": [
+				"9f4249ae6798cfb900000002"
+			]
+		},
+		{
+			"Name": "/Game/Effects/Misc/Textures/Weapon/T_muzzle_flashes",
+			"PackageChunkId": "b914c235a24ea20400000001",
+			"BulkDataChunkIds": [
+				"b914c235a24ea20400000002"
+			]
+		},
+		{
+			"Name": "/Game/Effects/Misc/Textures/Mask/T_SquareMaskTightEdge",
+			"PackageChunkId": "94bcb05ae69111d100000001",
+			"BulkDataChunkIds": [
+				"94bcb05ae69111d100000002"
+			]
+		},
+		{
+			"Name": "/Game/Effects/Misc/Textures/Noise/T_TileNoise",
+			"PackageChunkId": "cc44ad2ffa20551700000001",
+			"BulkDataChunkIds": [
+				"cc44ad2ffa20551700000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib01_Stereo",
+			"PackageChunkId": "cc41944b6a2fa11400000001",
+			"BulkDataChunkIds": [
+				"cc41944b6a2fa11400000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib02_Stereo",
+			"PackageChunkId": "0145df4b7320585600000001",
+			"BulkDataChunkIds": [
+				"0145df4b7320585600000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib03_Stereo",
+			"PackageChunkId": "0f510d99a1942d5a00000001",
+			"BulkDataChunkIds": [
+				"0f510d99a1942d5a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib04_Stereo",
+			"PackageChunkId": "fd6a18ba6fa66b5500000001",
+			"BulkDataChunkIds": [
+				"fd6a18ba6fa66b5500000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib05_Stereo",
+			"PackageChunkId": "f7cdce4a94ea554b00000001",
+			"BulkDataChunkIds": [
+				"f7cdce4a94ea554b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib06_Stereo",
+			"PackageChunkId": "28a926e8ea714d6300000001",
+			"BulkDataChunkIds": [
+				"28a926e8ea714d6300000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/T_Vista_Grass_N",
+			"PackageChunkId": "a351ffd1a0f2944300000001",
+			"BulkDataChunkIds": [
+				"a351ffd1a0f2944300000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/Chr_FPS_Fabric_N_01",
+			"PackageChunkId": "8d962aeda8c0a17100000001",
+			"BulkDataChunkIds": [
+				"8d962aeda8c0a17100000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/MagGun_Decals",
+			"PackageChunkId": "9c4a023ea392142100000001",
+			"BulkDataChunkIds": [
+				"9c4a023ea392142100000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/MagGun_Display_EM",
+			"PackageChunkId": "dd070617e6fec02c00000001",
+			"BulkDataChunkIds": [
+				"dd070617e6fec02c00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
+			"PackageChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
+			"PackageChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial",
+			"PackageChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
+			"PackageChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
+			"PackageChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
+			"PackageChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
+			"PackageChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Name": "/Paper2D/DummySprite",
+			"PackageChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultSpriteMaterial",
+			"PackageChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
+			"PackageChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/holo_layer_1_5",
+			"PackageChunkId": "4f7c0111b6eec59500000001",
+			"BulkDataChunkIds": [
+				"4f7c0111b6eec59500000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/SightLens_maskA",
+			"PackageChunkId": "b88e247b2b4fa27400000001",
+			"BulkDataChunkIds": [
+				"b88e247b2b4fa27400000002"
+			]
+		},
+		{
+			"Name": "/Game/Effects/Misc/Textures/Spark/T_SparkCore_2X2",
+			"PackageChunkId": "3255f27092a4bd7900000001",
+			"BulkDataChunkIds": [
+				"3255f27092a4bd7900000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Marine/Textures/Chr_FPS_Metal_01",
+			"PackageChunkId": "04a0eecc2d5cafbf00000001",
+			"BulkDataChunkIds": [
+				"04a0eecc2d5cafbf00000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/MagGun_01_N",
+			"PackageChunkId": "80b5e95a2aa775b000000001",
+			"BulkDataChunkIds": [
+				"80b5e95a2aa775b000000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/MagGunT1_section",
+			"PackageChunkId": "87fa6cd3951c3c6d00000001",
+			"BulkDataChunkIds": [
+				"87fa6cd3951c3c6d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/MagGunT1_shade",
+			"PackageChunkId": "424e071b2d3ddb1700000001",
+			"BulkDataChunkIds": [
+				"424e071b2d3ddb1700000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/MagGun_02_N",
+			"PackageChunkId": "ca9a795d34ba868e00000001",
+			"BulkDataChunkIds": [
+				"ca9a795d34ba868e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/MagGunT2_section",
+			"PackageChunkId": "0a6bc0e5e9a5609000000001",
+			"BulkDataChunkIds": [
+				"0a6bc0e5e9a5609000000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/MagGunT2_shade",
+			"PackageChunkId": "b865d2c34ba2e75300000001",
+			"BulkDataChunkIds": [
+				"b865d2c34ba2e75300000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Textures/SightLens_maskB",
+			"PackageChunkId": "28a29c8ed1c1b9d200000001",
+			"BulkDataChunkIds": [
+				"28a29c8ed1c1b9d200000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N",
+			"PackageChunkId": "04b7fa5923d9fa9f00000001",
+			"BulkDataChunkIds": [
+				"04b7fa5923d9fa9f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/T_Metal_Metal02_D",
+			"PackageChunkId": "6d1012bbaa0ee06a00000001",
+			"BulkDataChunkIds": [
+				"6d1012bbaa0ee06a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/T_PaintedMetal01_N",
+			"PackageChunkId": "fade60c7d7ef57d600000001",
+			"BulkDataChunkIds": [
+				"fade60c7d7ef57d600000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/T_PaintedMetal02",
+			"PackageChunkId": "12b4d3a9a931aaf900000001",
+			"BulkDataChunkIds": [
+				"12b4d3a9a931aaf900000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/T_Rubber",
+			"PackageChunkId": "9a9f462b809fbe1c00000001",
+			"BulkDataChunkIds": [
+				"9a9f462b809fbe1c00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/M_Manip",
+			"PackageChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Roboto",
+			"PackageChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/Camera/MI_CineMat_Rig",
+			"PackageChunkId": "ea704fa9c99103cc00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/SM_Sequencer_Node",
+			"PackageChunkId": "6e6a371ba7ffd6e900000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
+			"PackageChunkId": "51f4a9204ba994c500000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
+			"PackageChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
+			"PackageChunkId": "6fab96d8842b418000000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairDebugMaterial",
+			"PackageChunkId": "3889933e64b3022c00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
+			"PackageChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
+			"PackageChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
+			"PackageChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultMaterial",
+			"PackageChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
+			"PackageChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+			"PackageChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
+			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
+			"PackageChunkId": "14c0e68102482a4700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationColor",
+			"PackageChunkId": "a4739b1d475b4a3e00000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
+			"PackageChunkId": "37cdeb5ce1d3ccd800000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
+			"PackageChunkId": "fabb39727be145c100000001"
+		},
+		{
+			"Name": "/Game/UI/RT_MiniMap_Mat",
+			"PackageChunkId": "3d8a169869284c9e00000001"
+		},
+		{
+			"Name": "/Game/Sounds/Music/ShooterGame_Music_Intro_Cue",
+			"PackageChunkId": "96e7eca297fe34de00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/M_Sky_Panning_Clouds2",
+			"PackageChunkId": "6098725f85292e1b00000001"
+		},
+		{
+			"Name": "/Game/Rocks/Materials/M_MarsRock",
+			"PackageChunkId": "4c3d1c8154586ba800000001"
+		},
+		{
+			"Name": "/Game/Rocks/Materials/M_Rock_Sandstone",
+			"PackageChunkId": "3848e0a7bcd99e3b00000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Idle",
+			"PackageChunkId": "e587cda90877022500000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Fwd",
+			"PackageChunkId": "59f1d6d940480cab00000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B",
+			"PackageChunkId": "d3c994fc7820b76700000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C",
+			"PackageChunkId": "bc3577d4b247349d00000001"
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/RifleShoot_Cue",
+			"PackageChunkId": "2792d4df3725da2900000001"
+		},
+		{
+			"Name": "/Game/Sounds/Weapon_AssaultRifle/Stereo/RifleShootEnd_Cue",
+			"PackageChunkId": "95c706452139190a00000001"
+		},
+		{
+			"Name": "/Game/UI/W_BloodEffect",
+			"PackageChunkId": "48f08f0a748d773400000001"
+		},
+		{
+			"Name": "/Game/Effects/Pick-ups/P_Health",
+			"PackageChunkId": "900b567d29788a2600000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A",
+			"PackageChunkId": "a2c20c740a85b6b000000001"
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact_Cue",
+			"PackageChunkId": "61f44464b2f2416400000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider",
+			"PackageChunkId": "9af05d812306582800000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Marine_Skeleton",
+			"PackageChunkId": "e0ca0e54f004ae6c00000001"
+		},
+		{
+			"Name": "/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal",
+			"PackageChunkId": "623919f27e83686c00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/ML_Emissive_Custom",
+			"PackageChunkId": "3af097a8c528103400000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/LensFlare/M_LensFlare_02",
+			"PackageChunkId": "d539a8d175157b0900000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke",
+			"PackageChunkId": "30c62c75425c504000000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/Smoke/M_SmokeBall",
+			"PackageChunkId": "7677bc18cbfcefde00000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/Smoke/M_MuzzleSmokeDetail_GPU",
+			"PackageChunkId": "56da8bebc9877c5f00000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/spark/M_spark_subUV",
+			"PackageChunkId": "8fee6277e3e2496b00000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/LensFlare/M_Lensflare_01",
+			"PackageChunkId": "a1f54defcef8770c00000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle",
+			"PackageChunkId": "f453783d9001f28900000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV",
+			"PackageChunkId": "dacf61ef50955ae200000001"
+		},
+		{
+			"Name": "/Game/Effects/Misc/Materials/Weapon/M_MuzzleGlow",
+			"PackageChunkId": "3d217d769582986f00000001"
+		},
+		{
+			"Name": "/Game/Sounds/FoleyFlesh/Stereo/Cue_CreatureDeath",
+			"PackageChunkId": "286fc3fd72b1d58700000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/ML_Base",
+			"PackageChunkId": "1e860a0ec35eb53e00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/ML_Rubber_dark",
+			"PackageChunkId": "0b24b58c945934a100000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/ML_Glass",
+			"PackageChunkId": "cd9a327df302659600000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/ML_Metal_light",
+			"PackageChunkId": "49716f220d66d38400000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/ML_Metal_Painted",
+			"PackageChunkId": "220806d07934f1ef00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/ML_Rubber_light",
+			"PackageChunkId": "0daa26cac31e7f6800000001"
+		},
+		{
+			"Name": "/Game/Weapons/Materials/MagGun_SightLens_Mat",
+			"PackageChunkId": "08f4db414358c12c00000001"
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/ML_Metal_Copper",
+			"PackageChunkId": "fa24d761e4528a5700000001"
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/ML_Metal_Gray",
+			"PackageChunkId": "ce5a4a45b61802c600000001"
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/ML_Paint",
+			"PackageChunkId": "edadf967eed0af9400000001"
+		},
+		{
+			"Name": "/Game/Weapons/MaterialLayers/ML_Rubber",
+			"PackageChunkId": "3497902f0bcea68500000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultPaperTerrainMaterial",
+			"PackageChunkId": "1eb36adebf3e8d6900000001"
+		},
+		{
+			"Name": "/Paper2D/OpaqueUnlitSpriteMaterial",
+			"PackageChunkId": "b2e758c7adce0aa000000001"
+		},
+		{
+			"Name": "/Paper2D/MaskedUnlitSpriteMaterial",
+			"PackageChunkId": "603c62bd8092b35100000001"
+		},
+		{
+			"Name": "/Paper2D/TranslucentUnlitSpriteMaterial",
+			"PackageChunkId": "ed80e6fdcb7b904c00000001"
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_RailRig_Mount",
+			"PackageChunkId": "11adfda265bc32c200000001"
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_RailRig_Track",
+			"PackageChunkId": "d4904df7434a1c3e00000001"
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_CraneRig_Body",
+			"PackageChunkId": "92fa3fc272bbaee700000001"
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_CraneRig_Mount",
+			"PackageChunkId": "913432800511c53c00000001"
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_CraneRig_Arm",
+			"PackageChunkId": "24be0d3101b3b5c400000001"
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_CraneRig_Base",
+			"PackageChunkId": "4783ca75c2bc153700000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/BoundingBoxEdge",
+			"PackageChunkId": "8c9eb2537b56333800000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/BoundingBoxCorner",
+			"PackageChunkId": "68b44f7e8ffd781d00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/PlaneTranslationHandle",
+			"PackageChunkId": "85fc957de8cdf73500000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster",
+			"PackageChunkId": "0ec7598e2050155600000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster",
+			"PackageChunkId": "7bb897d6d85abe5e00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst",
+			"PackageChunkId": "4b7bf926a5212df600000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cone",
+			"PackageChunkId": "f23f619700918ac500000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cylinder",
+			"PackageChunkId": "7607d982d08b414700000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Sphere",
+			"PackageChunkId": "4a782f60fcb4c26e00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry",
+			"PackageChunkId": "d31cf458faf4915200000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_solid",
+			"PackageChunkId": "1595b610bf425b8d00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_3mm",
+			"PackageChunkId": "0d2d768a1192b97000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_1mm",
+			"PackageChunkId": "c66b43ec76bfc59100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Triangle_solid",
+			"PackageChunkId": "635920dd8e97e89c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Triangle_3mm",
+			"PackageChunkId": "81e5ad0aacfbd7d600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Triangle_1mm",
+			"PackageChunkId": "ee735f95c6fe420100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_solid",
+			"PackageChunkId": "299f33e3d422c87c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_3mm",
+			"PackageChunkId": "6bcf318dbf32160d00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_1mm",
+			"PackageChunkId": "8ff50e13d07b6e9600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_solid",
+			"PackageChunkId": "282dd182b8a2782f00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_3mm",
+			"PackageChunkId": "2c09f940b5d3cf5600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_1mm",
+			"PackageChunkId": "d77ff1320cafb8eb00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_3mm",
+			"PackageChunkId": "3c8fe56dcc4c94e400000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_1mm",
+			"PackageChunkId": "021da6225c7f517f00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedTriangle_solid",
+			"PackageChunkId": "2f97b476b27e825100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedTriangle_3mm",
+			"PackageChunkId": "81539c5da11600ae00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedTriangle_1mm",
+			"PackageChunkId": "8a3d5c4c771cc2b800000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_solid",
+			"PackageChunkId": "47760300c23f376100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_3mm",
+			"PackageChunkId": "e2e0e65221e757ff00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_1mm",
+			"PackageChunkId": "7d129f2ecdbade0a00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_QuarterCircle_solid",
+			"PackageChunkId": "a1157adbe06ab91600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_QuarterCircle_3mm",
+			"PackageChunkId": "0f013d461d34e71f00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_QuarterCircle_1mm",
+			"PackageChunkId": "1380a38fb2d9d09b00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_solid",
+			"PackageChunkId": "ccfbf6fb8c94d52600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_3mm",
+			"PackageChunkId": "2feae67d1f28277b00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_1mm",
+			"PackageChunkId": "e28775e15c9fefaa00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_solid",
+			"PackageChunkId": "c42798d4b7d7893a00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_3mm",
+			"PackageChunkId": "db28b8396928adf000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_1mm",
+			"PackageChunkId": "9936bd915052cb2200000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_solid",
+			"PackageChunkId": "1b6c8e2dd045aecf00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_3mm",
+			"PackageChunkId": "d23a4e7d2f47187c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_1mm",
+			"PackageChunkId": "1d747f2667a6cc3e00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_solid",
+			"PackageChunkId": "d1e559d0e2302cd200000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_3mm",
+			"PackageChunkId": "41772863b6990e2300000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_1mm",
+			"PackageChunkId": "88eaefb43659df9600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_solid",
+			"PackageChunkId": "5f0bb60d5aa9cbe000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_3mm",
+			"PackageChunkId": "a91d103488503cd200000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_1mm",
+			"PackageChunkId": "b971d0721fc7bec800000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_solid",
+			"PackageChunkId": "032dd1d44e4fc35000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_3mm",
+			"PackageChunkId": "26708189dce06d9c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_1mm",
+			"PackageChunkId": "b0e6f22a1229f33400000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_solid",
+			"PackageChunkId": "b6ecf8eaf9e325c400000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_3mm",
+			"PackageChunkId": "1d2105a53b99f8b400000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_1mm",
+			"PackageChunkId": "0bd00fa41afbdaed00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_solid",
+			"PackageChunkId": "4bf1e0df3070bca100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_3mm",
+			"PackageChunkId": "6ff734fd30628e8c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_1mm",
+			"PackageChunkId": "c37eb6c5460e3abb00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_solid",
+			"PackageChunkId": "34f8d388913445db00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_3mm",
+			"PackageChunkId": "d623d5bc8818ccbe00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_1mm",
+			"PackageChunkId": "42cab4d3ee68987100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_solid",
+			"PackageChunkId": "dbdfc4bccd3d616d00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_3mm",
+			"PackageChunkId": "29ff7e5dd78cdef100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_1mm",
+			"PackageChunkId": "a9e8edb09171185f00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_solid",
+			"PackageChunkId": "1b32f3f341cb246000000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Plane",
+			"PackageChunkId": "a44601bc68ca3f2400000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cube",
+			"PackageChunkId": "71fe0432abe4de2400000001"
+		},
+		{
+			"Name": "/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane",
+			"PackageChunkId": "7b9c08e592b6f57800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked",
+			"PackageChunkId": "85eb7ec9f6c8613a00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
+			"PackageChunkId": "dd353fe85598727e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
+			"PackageChunkId": "34868b7f9c10838900000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/SM_SkySphere",
+			"PackageChunkId": "48df828be219f7ad00000001"
+		},
+		{
+			"Name": "/Game/Rocks/SM_Rock",
+			"PackageChunkId": "c752a2118bcc093300000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/SK_Greater_Spider",
+			"PackageChunkId": "4f0086ef32b84e4e00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Animations/Death",
+			"PackageChunkId": "798dda30160ed6fe00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Animations/Idle",
+			"PackageChunkId": "ba6b886dd00af78b00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Animations/Run_Bwd",
+			"PackageChunkId": "7c1f710656d4bc4c00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Animations/Run_Fwd",
+			"PackageChunkId": "4e8049cc377abe6500000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Animations/Run_Lt",
+			"PackageChunkId": "8f2e03d78962492c00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Animations/Run_Rt",
+			"PackageChunkId": "388a6fb912fa9a1900000001"
+		},
+		{
+			"Name": "/Game/Effects/Weapons/Impacts/P_AssaultRifle_IH",
+			"PackageChunkId": "acbc0109e7dd52de00000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Death",
+			"PackageChunkId": "e3a3920bf9153ba800000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/M_Marine",
+			"PackageChunkId": "bb3bbde414bdaa5b00000001"
+		},
+		{
+			"Name": "/Game/Weapons/Materials/MagGun_SightLens_Mat_Inst",
+			"PackageChunkId": "e8867fb7431cb57500000001"
+		},
+		{
+			"Name": "/Game/Weapons/Materials/MagGun_MatA",
+			"PackageChunkId": "67f715fd8e36260900000001"
+		},
+		{
+			"Name": "/Game/Weapons/Materials/MagGun_MatB",
+			"PackageChunkId": "ffdad39aa1a2011300000001"
+		},
+		{
+			"Name": "/Game/UI/Textures/point_red_Sprite",
+			"PackageChunkId": "6b9c569e931f9b1400000001"
+		},
+		{
+			"Name": "/Game/UI/Textures/player_icon_Sprite",
+			"PackageChunkId": "0193328f564c2adf00000001"
+		},
+		{
+			"Name": "/Game/UI/Textures/health_icon_Sprite",
+			"PackageChunkId": "dd9cbbd82592b77400000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided",
+			"PackageChunkId": "3a0245e4904b10b500000001"
+		},
+		{
+			"Name": "/Game/Effects/Weapons/Impacts/P_CreatureImpact",
+			"PackageChunkId": "0790cb415a41337b00000001"
+		},
+		{
+			"Name": "/Game/Effects/Weapons/Muzzle/P_AssaultRifle_MF",
+			"PackageChunkId": "7d010f271d299ab700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
+			"PackageChunkId": "0e6a0028be3a2a6c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+			"PackageChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/BP_Sky_Sphere",
+			"PackageChunkId": "cdbcbf4a06978c3b00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Animations/BlendSpace_Movement",
+			"PackageChunkId": "3b854cd0c5d618d900000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_A_Montage",
+			"PackageChunkId": "5e6d5b03965627bb00000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B_Montage",
+			"PackageChunkId": "53ff61c96164f2c400000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C_Montage",
+			"PackageChunkId": "2d7ae10cb8363fec00000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Marine",
+			"PackageChunkId": "f340cae2cf0f18b300000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Materials/MI_Marine",
+			"PackageChunkId": "774ee1ea3141640600000001"
+		},
+		{
+			"Name": "/Game/Weapons/Materials/MagGun_MatA_Inst3",
+			"PackageChunkId": "2024ffc315c3b45600000001"
+		},
+		{
+			"Name": "/Game/Weapons/Materials/MagGun_MatB_Inst2",
+			"PackageChunkId": "8c99cb8d88dd781500000001"
+		},
+		{
+			"Name": "/Game/Weapons/Rifle",
+			"PackageChunkId": "99d0fc70bc17e6a900000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQSubmixDefault",
+			"PackageChunkId": "cadc4d0ec817b83400000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbSubmixDefault",
+			"PackageChunkId": "cda0bce26734770500000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterSubmixDefault",
+			"PackageChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Name": "/Game/Blueprints/PickUps/BP_HealthPickUp",
+			"PackageChunkId": "b7c0ad5d4ef0490900000001"
+		},
+		{
+			"Name": "/Game/Blueprints/BP_GameMode",
+			"PackageChunkId": "8f1a19d35b37cc6e00000001"
+		},
+		{
+			"Name": "/Game/UI/W_PlayerLose",
+			"PackageChunkId": "86b04ca1dd89c30600000001"
+		},
+		{
+			"Name": "/Game/UI/W_PlayerHUD",
+			"PackageChunkId": "b0f586d1664f06e200000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Characters/BP_Marine",
+			"PackageChunkId": "6c0c8b862f9273a900000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Volums/BP_WarningVolume",
+			"PackageChunkId": "dd88d7598b2c4e4300000001"
+		},
+		{
+			"Name": "/Game/Characters/Marine/Animations/AnimBP_Marine",
+			"PackageChunkId": "187f4a29b26dcecf00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Characters/BP_Alien",
+			"PackageChunkId": "ea287fbc9f31a29b00000001"
+		},
+		{
+			"Name": "/Game/Characters/Enemy_Great_Spider/Animations/AnimBP_AlienSpider",
+			"PackageChunkId": "3774a6bf005df45a00000001"
+		},
+		{
+			"Name": "/Game/Levels/Mars",
+			"PackageChunkId": "4418a50a49dfc47200000001",
+			"BulkDataChunkIds": [
+				"4418a50a49dfc47200000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/EmptyActor",
+			"PackageChunkId": "cb90c94586b3228900000001"
+		}
+	],
+	"OptionalPackages": []
+}
